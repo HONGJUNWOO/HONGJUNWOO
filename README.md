@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=black&height=175&section=header&text=프로필&fontColor=F7EFE9&fontSize=65)
 
-
 ## [자기소개]
 - 학력: 울산대학교(Ulsan University), 경영정보시스템(MIS), 학사과정(Bachelor Degree)<br>
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;부산대학교(Pusan National University), 경영정보시스템(MIS), 석사과정(Master's Degree)
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;부산대학교(Pusan National University), 경영정보시스템(MIS), 석사과정(Master's Degree): PNU IBA Lab {증빙자료}
 - 관심분야: 비즈니스 애널리틱스, 텍스트 마이닝, 자연어 처리, 군집분석, 추천시스템 등
 #
 
@@ -16,17 +15,17 @@
 
 
 ## [수상 및 기타]
-- [수상이력]: 
+- 수상이력: 
   * (2021) ICEC 2021(22nd International Conference on Electronic Commerce)/BEST PAPER{증빙자료}
   * (2021) Design Thinking: BK21 Four 부산대학교 디지털금융 교육연구단/장려상{증빙자료}
   * (2022) 2022 경영정보관련 춘계통합학술대회: 한국정보시스템학회 주관/최우수 논문상{증빙자료}
   
-- [직문 관련 경험]: 
+- 직문 관련 경험: 
   * (2020) 디지털 트랜스포메이션을 통한 사회 현안을 해결방법 제시 및 새로운 서비스 아이디어: 한국경영정보학회 주관 아이디어 공모전/참여 {증빙자료}
   * (2021) 우리의 삶이 변한 만큼 도로 위험도 변한다: 국토교통부 주관 온라인 해커톤 경진대회/상위23% {증빙자료}
   * (2021) 리뷰 빅데이터를 이용한 소상공인 마케팅 AI 어드바이저: ICT챌린지2021 아이디어 공모전/참여 {증빙자료}
   
-- [직문 관련 자격증]: {증빙자료} <br>
+- 직문 관련 자격증: {증빙자료} <br>
   * (2017, 2019) 컴퓨터활용능력 1, 2급: 대한상공회의소 자격평가사업단
   * (2018) 사무자동화산업기사: 한국산업인력공단
   * (2019) 정보처리기사: 한국산업인력공단
@@ -39,7 +38,7 @@
 #  
 
 
-## [참여 학회]
+## [참여 학술대회]
 - 홍준우, 원종관, 홍태호(2021, June 2th). A comparative analysis of travelers’online reviews among China, South Korea, and USA using sentiment analysis in
 the era of the COVID-19 pandemic, 2021 한국IT서비스학회 춘계학술대회.
 - 홍준우, 김은미, 홍태호.(2021, June 11th). 감성분석을 적용한 코로나 전후의 국내 호텔등급별 리뷰 비교 분석, 2021년 한국지능정보시스템학회 춘계학술대회
