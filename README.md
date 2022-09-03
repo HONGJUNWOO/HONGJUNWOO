@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=black&height=175&section=header&text=프로필&fontColor=F7EFE9&fontSize=65)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=black&height=175&section=header&text=프로필&fontColor=F7EFE9&fontSize=65)
 
 
 ## [자기소개]
