@@ -1,12 +1,12 @@
-#
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHONGJUNWOO&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![header](https://capsule-render.vercel.app/api?color=6FC7E1&height=200&text=프로필&fontSize=60)<br>
 
 
 **<div align=center>안녕하세요!!</div>** 
-**<div align=center>홍준우의 프로필 페이지입니다.</div>** 
-**<div align=center>데이터를 탐구하고 비즈니스 문제를 해결하는 것에 관심이 많은 데이터 사이언티스트 입니다.</div>**
+**<div align=center>데이터를 탐구하고 비즈니스 문제를 해결하는 것에 관심이 많은 데이터사이언티스트 홍준우 입니다.</div>**
 
-
+<br><br>
 ## 1. 자기소개
 - __학력__: 
    - 울산대학교 경영정보시스템 학사학위 졸업 <br>
