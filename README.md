@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=6FC7E1&height=200&text=프로필&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=6FC7E1&height=120&text=프로필&fontSize=60)
 
 ## 1. 자기소개
 - 학력: 
