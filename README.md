@@ -22,14 +22,23 @@
 
 ## 4. 수상 및 기타
 - 수상이력: 
-  * (2021) ICEC 2021(22nd International Conference on Electronic Commerce)/BEST PAPER{증빙자료}
+  * (2021) ICEC 2021(22nd International Conference on Electronic Commerce)/BEST PAPER
+  [{학회 개요}](https://it.swufe.edu.cn/events/icec_2021/),
+  [{증빙자료}](https://blog.naver.com/ehddml70/222774622903)
   * (2021) Design Thinking: BK21 Four 부산대학교 디지털금융 교육연구단/장려상{증빙자료}
   * (2022) 2022 경영정보관련 춘계통합학술대회: 한국정보시스템학회 주관/최우수 논문상{증빙자료}
   
 - 직문 관련 경험:
-  * (2020) 디지털 트랜스포메이션을 통한 사회 현안을 해결방법 제시 및 새로운 서비스 아이디어: 한국경영정보학회 주관 아이디어 공모전/참여 {증빙자료}
-  * (2021) 우리의 삶이 변한 만큼 도로 위험도 변한다: 국토교통부 주관 온라인 해커톤 경진대회/상위23% {증빙자료}
-  * (2021) 리뷰 빅데이터를 이용한 소상공인 마케팅 AI 어드바이저: ICT챌린지2021 아이디어 공모전/참여 {증빙자료}
+  * (2020) 디지털 트랜스포메이션을 통한 사회 현안을 해결방법 제시 및 새로운 서비스 아이디어: 한국경영정보학회 주관 아이디어 공모전/참여 
+  [{공모전 개요}](https://www.kmis.or.kr/kmis/sub02/sub02_view.asp?Idx=1743&gotoPage=8&sBCode=A01&sItem=&sTxt=),
+  {증빙자료}
+  
+  * (2021) 우리의 삶이 변한 만큼 도로 위험도 변한다: 국토교통부 주관 온라인 해커톤 경진대회/상위23% 
+  [{해커톤 개요}](https://dacon.io/competitions/official/235758/overview/description), 
+  [{증빙자료}](https://dacon.io/competitions/official/235758/codeshare/3154)
+  * (2021) 리뷰 빅데이터를 이용한 소상공인 마케팅 AI 어드바이저: ICT챌린지2021 아이디어 공모전/참여 
+  [{공모전 개요}](http://itrc.or.kr/sub/event/challenge.asp?mode=view&bid=9&s_type=&s_keyword=&s_cate=&idx=2170&page=1), 
+  {증빙자료}
   
 - 직문 관련 자격증: [{증빙자료}](https://blog.naver.com/ehddml70/222866099772) <br>
   * (2017, 2019) 컴퓨터활용능력 1, 2급: 대한상공회의소 자격평가사업단
@@ -40,7 +49,7 @@
 
 ## 5. 논문
 - 홍준우 and 홍태호. (2021). 코로나19 팬데믹 상황에서 감성분석을 이용한 미국, 중국, 한국 여행자의 온라인 리뷰 비교 분석. 한국IT서비스학회지, 20(5), 159-176. [{증빙자료}](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002772823)
-- 홍태호, 홍준우, 김은미 and 김민수. (2022). 영화 리뷰의 상품 속성과 고객 속성을 통합한 지능형 추천시스템. 지능정보연구, 28(2), 1-18. [{증빙자료}](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002854695)
+- 홍태호, 홍준우, 김은미 and 김민수. (2022). 영화 리뷰의 상품 속성과 고객 속성을 통합한 지능형 추천시스템. 지능정보연구, 28(2), 1-18. &nbsp;&nbsp; &nbsp;  [{증빙자료}](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002854695)
 #  
 
 
