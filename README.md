@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=black&height=175&section=header&text=프로필&fontColor=F7EFE9&fontSize=65)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=364765&height=100&section=header&text=프로필&fontSize=40)
 ## 1. 기술
 <img src="https://img.shields.io/badge/python-3776AB??style=flat&logo=appveyor=python&logoColor=white"><br>
 #
