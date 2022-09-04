@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=364765&height=100&section=header&text=프로필&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=Egg&color=364765&height=200&section=header&text=홍준우&fontSize=50)
 ## 1. 기술
 <img src="https://img.shields.io/badge/python-3776AB??style=flat&logo=appveyor=python&logoColor=white"><br>
 #
