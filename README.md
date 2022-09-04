@@ -1,12 +1,11 @@
 #
 ![header](https://capsule-render.vercel.app/api?color=6FC7E1&height=200&text=프로필&fontSize=60)<br>
 
-<div align=center>안녕하세요!</div> 
-<div align=center>홍준우 프로필 페이지입니다.</div> 
-<div align=center>늘 데이터를 사랑하고 관심이 많은 데이터 사이언티스트 입니다.</div> 
 
+**<div align=center>안녕하세요!!</div>** 
+**<div align=center>홍준우의 프로필 페이지입니다.</div>** 
+**<div align=center>데이터를 탐구하고 비즈니스 문제를 해결하는 것에 관심이 많은 데이터 사이언티스트 입니다.</div>**
 
-#
 
 ## 1. 자기소개
 - 학력: 
