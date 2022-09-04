@@ -6,8 +6,9 @@
 
 
 ## 2. 자기소개
-- 학력: 울산대학교(Ulsan University), 경영정보시스템(MIS), 학사과정(Bachelor Degree)<br>
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;부산대학교(Pusan National University), 경영정보시스템(MIS), 석사과정(Master's Degree): PNU IBA Lab {증빙자료}
+- 학력: 울산대학교 경영정보시스템 학사과정 졸업 <br>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;부산대학교 경영정보시스템 석사과정 졸업예정(2023.02.24) <br> 
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ※ 소속: [PNU IBA_Lab](http://ibalab.quv.kr/)
 - 관심분야: 비즈니스 애널리틱스, 텍스트 마이닝, 자연어 처리, 군집분석, 추천시스템 등
 #
 
@@ -38,16 +39,16 @@
 
 
 ## 5. 논문
-- 홍준우 and 홍태호.(2021). 코로나19 팬데믹 상황에서 감성분석을 이용한 미국, 중국, 한국 여행자의 온라인 리뷰 비교 분석. 한국IT서비스학회지, 20(5), 159-176. {증빙자료}
-- 홍태호, 홍준우, 김은미 and 김민수.(2022). 영화 리뷰의 상품 속성과 고객 속성을 통합한 지능형 추천시스템. 지능정보연구, 28(2), 1-18. {증빙자료}
+- 홍준우 and 홍태호. (2021). 코로나19 팬데믹 상황에서 감성분석을 이용한 미국, 중국, 한국 여행자의 온라인 리뷰 비교 분석. 한국IT서비스학회지, 20(5), 159-176. [{증빙자료}](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002772823)
+- 홍태호, 홍준우, 김은미 and 김민수. (2022). 영화 리뷰의 상품 속성과 고객 속성을 통합한 지능형 추천시스템. 지능정보연구, 28(2), 1-18. [{증빙자료}](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002854695)
 #  
 
 
 ## 6. 학술대회
-- 홍준우, 원종관, 홍태호(2021, June 2th). A comparative analysis of travelers’online reviews among China, South Korea, and USA using sentiment analysis in
+- 홍준우, 원종관, 홍태호. (2021, June 2th). A comparative analysis of travelers’online reviews among China, South Korea, and USA using sentiment analysis in
 the era of the COVID-19 pandemic, 2021 한국IT서비스학회 춘계학술대회.
-- 홍준우, 김은미, 홍태호.(2021, June 11th). 감성분석을 적용한 코로나 전후의 국내 호텔등급별 리뷰 비교 분석, 2021년 한국지능정보시스템학회 춘계학술대회
-- 홍준우, 김은미, 김상희, 홍태호.(2021, November 5th). 온라인 리뷰의 속성별 감성값을 이용한 호텔추천. 2021 한국인터넷전자상거래학회 추계학술대회
-- 홍준우, 홍태호.,(2022, June 10th). 온라인 리뷰의 텍스트 마이닝을 이용한 통합 감성 기반의 지능형 추천시스템. 2022 경영정보관련 춘계통합학술대회
+- 홍준우, 김은미, 홍태호. (2021, June 11th). 감성분석을 적용한 코로나 전후의 국내 호텔등급별 리뷰 비교 분석, 2021년 한국지능정보시스템학회 춘계학술대회
+- 홍준우, 김은미, 김상희, 홍태호. (2021, November 5th). 온라인 리뷰의 속성별 감성값을 이용한 호텔추천. 2021 한국인터넷전자상거래학회 추계학술대회
+- 홍준우, 홍태호., (2022, June 10th). 온라인 리뷰의 텍스트 마이닝을 이용한 통합 감성 기반의 지능형 추천시스템. 2022 경영정보관련 춘계통합학술대회
 #  
 
