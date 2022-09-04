@@ -8,13 +8,13 @@
 
 
 ## 1. 자기소개
-- 학력: 
+- __학력__: 
    - 울산대학교 경영정보시스템 학사학위 졸업 <br>
    - 부산대학교 경영정보시스템 석사학위 졸업예정(2023.02) <br> 
  &nbsp; ※ 소속: [PNU IBA_Lab](http://ibalab.quv.kr/)
-- 보유기술: <img src="https://img.shields.io/badge/python-3776AB??style=flat&logo=appveyor=python&logoColor=white">
-- 연구분야: 비즈니스 애널리틱스, 텍스트 마이닝, 자연어 처리, 군집분석, 추천시스템 등
-- 역량소개: 
+- __보유기술__: <img src="https://img.shields.io/badge/python-3776AB??style=flat&logo=appveyor=python&logoColor=white">
+- __연구분야__: 비즈니스 분석, 텍스트 마이닝, 자연어 처리, 군집분석, 추천시스템 등
+- __역량소개__: 
    - 정형 및 비정형 타입의 데이터를 분석하여 비즈니스 문제를 해결한 경험
    - 제한된 리소스 환경에서 기획 단계부터 비즈니스 문제 해결까지 다양한 프로젝트를 담당 및 참여 경험
    - 프로젝트 경험을 통해 다양한 팀의 구성원들과 업무 협업 경험
@@ -31,21 +31,20 @@
 
 
 ## 3. 수상 및 기타
-- 수상이력: 
+- __수상이력__: 
   * (2021) ICEC 2021(22nd International Conference on Electronic Commerce)/BEST PAPER - [{학회 개요}](https://it.swufe.edu.cn/events/icec_2021/)
   [{증빙자료}](https://blog.naver.com/ehddml70/222774622903)
   * (2021) Design Thinking: BK21 Four 부산대학교 디지털금융 교육연구단/장려상 - {증빙자료}
   * (2022) 2022 경영정보관련 춘계통합학술대회: 한국정보시스템학회 주관/최우수 논문상 - [{학회개요}](http://www.ekais.or.kr/skin_build61/bbs_list.php?boardT=v&board_data=aWR4PTIyNDcmc3RhcnRQYWdlPTAmbGlzdE5vPTM2JnRhYmxlPXJlZF9iYnNfZGF0YSZjb2RlPWNvbnNwJnNlYXJjaF9pdGVtPSZzZWFyY2hfb3JkZXI9||&search_items=Y29kZT1jb25zcCZfJnNlYXJjaF9pdGVtPSZfJnNlYXJjaF9vcmRlcj0mXyZ1bnNpbmdjb2RlMT0xMjkzMDk5NTkwJl8mdW5zaW5nY29kZTI9MTI5MzEwMDY4NCZfJnVuc2luZ2NvZGUzPSZfJmNhdGU9Jl8mcHdkPQ==||)
   [{증빙자료}](https://blog.naver.com/ehddml70/222774626639)
   
-- 직무 관련 경험:
+- __직무관련 경험__:
   * (2020) 디지털트랜스포메이션을 통한 사회현안을 해결방법제시 및 새로운 서비스: 한국경영정보학회 주관 <br/> 
   아이디어 공모전 참여 - [{공모전개요}](https://www.kmis.or.kr/kmis/sub02/sub02_view.asp?Idx=1743&gotoPage=8&sBCode=A01&sItem=&sTxt=) {증빙자료}
-  
   * (2021) 우리의 삶이 변한 만큼 도로 위험도 변한다: 국토교통부 주관 온라인 해커톤 경진대회 상위23% - [{해커톤개요}](https://dacon.io/competitions/official/235758/overview/description) [{증빙자료}](https://dacon.io/competitions/official/235758/codeshare/3154)
   * (2021) 리뷰 빅데이터를 이용한 소상공인 마케팅 AI 어드바이저: ICT챌린지2021 아이디어 공모전 참여 - [{공모전개요}](http://itrc.or.kr/sub/event/challenge.asp?mode=view&bid=9&s_type=&s_keyword=&s_cate=&idx=2170&page=1) {증빙자료}
   
-- 직무 관련 자격증: [{증빙자료}](https://blog.naver.com/ehddml70/222866099772) <br>
+- __직무관련 자격증__: [{증빙자료}](https://blog.naver.com/ehddml70/222866099772) <br>
   * (2017, 2019) 컴퓨터활용능력 1, 2급: 대한상공회의소 자격평가사업단
   * (2018) 사무자동화산업기사: 한국산업인력공단
   * (2019) 정보처리기사: 한국산업인력공단
