@@ -1,25 +1,29 @@
-![header](https://capsule-render.vercel.app/api?type=Egg&color=364765&height=200&section=header&text=홍준우&fontSize=50)
-## 1. 기술
-<img src="https://img.shields.io/badge/python-3776AB??style=flat&logo=appveyor=python&logoColor=white"><br>
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=6FC7E1&height=200&text=프로필&fontSize=80)
+
+## 1. 자기소개
+- 학력: 
+   - 울산대학교 경영정보시스템 학사학위 졸업 <br>
+   - 부산대학교 경영정보시스템 석사학위 졸업예정(2023.02) <br> 
+ &nbsp; ※ 소속: [PNU IBA_Lab](http://ibalab.quv.kr/)
+- 보유기술: <img src="https://img.shields.io/badge/python-3776AB??style=flat&logo=appveyor=python&logoColor=white">
+- 연구분야: 비즈니스 애널리틱스, 텍스트 마이닝, 자연어 처리, 군집분석, 추천시스템 등
+- 역량소개: 
+   - 정형 및 비정형 타입의 데이터를 분석하여 비즈니스 문제를 해결한 경험
+   - 제한된 리소스 환경에서 기획 단계부터 비즈니스 문제 해결까지 다양한 프로젝트를 담당 및 참여 경험
+   - 프로젝트 경험을 통해 다양한 팀의 구성원들과 업무 협업 경험
+   - 눈문 게재, 학술대회 발표, 국내 및 국외 세미나 참석 등 다양한 학술적 활동 경험
+   - 기업 사례분석, 공공데이터 분석 등 데이터분석 경진대회 및 아디이어 공모전 등 다양한 실무적 홛동 경험
 #
 
 
-## 2. 자기소개
-- 학력: 울산대학교 경영정보시스템 학사과정 졸업 <br>
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;부산대학교 경영정보시스템 석사과정 졸업예정(2023.02) <br> 
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ※ 소속: [PNU IBA_Lab](http://ibalab.quv.kr/)
-- 관심분야: 비즈니스 애널리틱스, 텍스트 마이닝, 자연어 처리, 군집분석, 추천시스템 등
-#
-
-
-## 3. 프로젝트
+## 2. 프로젝트
 - (2021) 코로나19 팬데믹 상황에서 감성분석을 이용한 여행자의 온라인 리뷰 비교 분석: 미국, 중국, 한국
 - (2021) 1인 가구를 위한 맞춤형 상품 제안: 기웅정보통신
 - (2022) 고객 리뷰의 상품속성과 고객속성을 통합한 지능형 추천시스템
 #
 
 
-## 4. 수상 및 기타
+## 3. 수상 및 기타
 - 수상이력: 
   * (2021) ICEC 2021(22nd International Conference on Electronic Commerce)/BEST PAPER - [{학회 개요}](https://it.swufe.edu.cn/events/icec_2021/)
   [{증빙자료}](https://blog.naver.com/ehddml70/222774622903)
@@ -40,7 +44,7 @@
 #  
 
 
-## 5. 논문
+## 4. 논문
 - 홍준우 and 홍태호. (2021). 코로나19 팬데믹 상황에서 감성분석을 이용한 미국, 중국, 한국 여행자의 온라인 리뷰 비교 분석. 한국IT서비스학회지, 20(5), 159-176. 
 [{증빙자료}](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002772823)
 - 홍태호, 홍준우, 김은미 and 김민수. (2022). 영화 리뷰의 상품 속성과 고객 속성을 통합한 지능형 추천시스템. 지능정보연구, 28(2), 1-18. 
@@ -48,7 +52,7 @@
 #  
 
 
-## 6. 학술대회
+## 5. 학술대회
 - 홍준우, 원종관, 홍태호. (2021, June 2th). A comparative analysis of travelers’online reviews among China, South Korea, and USA using sentiment analysis in
 the era of the COVID-19 pandemic, 2021 한국IT서비스학회 춘계학술대회.
 - 홍준우, 김은미, 홍태호. (2021, June 11th). 감성분석을 적용한 코로나 전후의 국내 호텔등급별 리뷰 비교 분석, 2021년 한국지능정보시스템학회 춘계학술대회
