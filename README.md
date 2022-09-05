@@ -6,7 +6,7 @@
 **<div align=center>안녕하세요:exclamation::exclamation: </div>** 
 **<div align=center>데이터 사이언티스트 홍준우입니다.:grey_exclamation::grey_exclamation:</div>** 
 **<div align=center>데이터를 탐구하고 비즈니스 문제를 해결하는 것에 관심이 많습니다.:sparkles:</div>**
-**<div align=center>늘 성실하고 겸손하게 전진하는 데이터 사이언티스트가 되도록하겠습니다.:sparkles:</div>**
+**<div align=center>늘 성실하고 겸손하게 전진하는 데이터 사이언티스트가 되겠습니다.:sparkles:</div>**
 
 
 <br><br>
