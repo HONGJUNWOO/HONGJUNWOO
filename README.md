@@ -6,9 +6,8 @@
 **<div align=center> 저의 프로필 페이지를 방문해주셔서 감사합니다. :exclamation: </div>**
 **<div align=center> 데이터를 탐구하고 비즈니스 문제를 해결하는 것에 관심이 많습니다. :sparkles:</div>**
 **<div align=center> 늘 성실하고 겸손하게 전진하는 데이터 사이언티스트가 되겠습니다. :sparkles:</div>**
+<br>
 
-
-<br><br>
 ## 1. 자기소개
 - __학력__: 
    - 울산대학교 경영정보시스템 학사학위 졸업 <br>
