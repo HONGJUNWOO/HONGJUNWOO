@@ -2,10 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?&type=Shark&color=6FC7E1&height=100)<br>
 
-**<div align=center> 안녕하세요. 데이터 사이언티스트 홍준우 입니다. :exclamation: </div>**
-**<div align=center> 저의 프로필 페이지를 방문해주셔서 감사합니다. :exclamation: </div>**
-**<div align=center> 데이터를 탐구하고 비즈니스 문제를 해결하는 것에 관심이 많습니다. :sparkles:</div>**
-**<div align=center> 늘 성실하고 겸손하게 전진하는 데이터 사이언티스트가 되겠습니다. :sparkles:</div>**
+**<div align=center> 안녕하세요. 데이터 사이언티스트 홍준우 입니다:exclamation::exclamation: </div>**
+**<div align=center> 저의 프로필 페이지를 방문해주셔서 감사합니다:exclamation::exclamation: </div>**
+**<div align=center> 데이터를 탐구하고 비즈니스 문제를 해결하는 것에 관심이 많습니다:sparkles::sparkles:</div>**
+**<div align=center> 늘 성실하고 겸손하게 전진하는 데이터 사이언티스트가 되겠습니다:sparkles::sparkles:</div>**
 <br>
 
 ## 1. 자기소개
