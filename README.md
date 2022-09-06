@@ -1,12 +1,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHONGJUNWOO&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![header](https://capsule-render.vercel.app/api?color=6FC7E1&height=200&text=프로필&fontSize=60)<br>
+![header](https://capsule-render.vercel.app/api?&type=Egg&color=6FC7E1&height=100)<br>
 
-
-**<div align=center>안녕하세요:exclamation::exclamation: </div>** 
-**<div align=center>데이터 사이언티스트 홍준우입니다.:grey_exclamation::grey_exclamation:</div>** 
-**<div align=center>데이터를 탐구하고 비즈니스 문제를 해결하는 것에 관심이 많습니다.:sparkles:</div>**
-**<div align=center>늘 성실하고 겸손하게 전진하는 데이터 사이언티스트가 되겠습니다.:sparkles:</div>**
+**<div align=center> 안녕하세요. 데이터 사이언티스트 홍준우 입니다. :exclamation: </div>**
+**<div align=center> 저의 프로필 페이지를 방문해주셔서 감사합니다. :exclamation: </div>**
+**<div align=center> 데이터를 탐구하고 비즈니스 문제를 해결하는 것에 관심이 많습니다. :sparkles:</div>**
+**<div align=center> 늘 성실하고 겸손하게 전진하는 데이터 사이언티스트가 되겠습니다. :sparkles:</div>**
 
 
 <br><br>
