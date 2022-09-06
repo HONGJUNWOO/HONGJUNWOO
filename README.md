@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHONGJUNWOO&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![header](https://capsule-render.vercel.app/api?&type=Shark&color=black&height=100)<br>
+![header](https://capsule-render.vercel.app/api?&type=Shark&color=6FC7E1&height=100)<br>
 
 **<div align=center> 안녕하세요. 데이터 사이언티스트 홍준우 입니다. :exclamation: </div>**
 **<div align=center> 저의 프로필 페이지를 방문해주셔서 감사합니다. :exclamation: </div>**
