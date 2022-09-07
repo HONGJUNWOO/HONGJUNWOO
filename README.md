@@ -3,9 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?color=6FC7E1&height=200&text=홍준우%20프로필&fontSize=60)<br>
 <br><br><br>
 
-**<div align=center> 안녕하세요. 저의 "프로필" 페이지를 방문해주셔서 감사드립니다:exclamation::exclamation: </div>**
-**<div align=center> 타양한 형태의 데이터를 탐구하고 여러 비즈니스 문제를 해결하는 것에 관심이 많습니다:pencil2::pencil2:</div>**
-**<div align=center> 늘 성실하고 겸손하게 전진하는 사람이 되겠습니다:wave::wave:</div>**
+**<div align=center> 안녕하세요. 저의 프로필을  방문해주셔서 감사합니다:exclamation::exclamation: </div>**
+**<div align=center> 다양한 형태의 데이터를 탐구하고 여러 비즈니스 문제를 해결하는 것에 관심이 많습니다:pencil2::pencil2:</div>**
+**<div align=center> 늘 성실하고 겸손하게 전진하는 인재가 되도록 노력하겠습니다:wave::wave:</div>**
 <br><br><br>
 
 
