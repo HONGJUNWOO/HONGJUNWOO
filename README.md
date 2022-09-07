@@ -36,7 +36,7 @@
 - __수상이력__: 
   * (2021) ICEC 2021(22nd International Conference on Electronic Commerce)/BEST PAPER - [{학회 개요}](https://it.swufe.edu.cn/events/icec_2021/)
   [{증빙자료}](https://blog.naver.com/ehddml70/222774622903)
-  * (2021) Design Thinking: BK21 Four 부산대학교 디지털금융 교육연구단/장려상 - {증빙자료}
+  * (2021) Design Thinking: BK21 Four 부산대학교 디지털금융 교육연구단/장려상 - [{증빙자료}](https://blog.naver.com/ehddml70/222868992817)
   * (2022) 2022 경영정보관련 춘계통합학술대회: 한국정보시스템학회 주관/최우수 논문상 - [{학회개요}](http://www.ekais.or.kr/skin_build61/bbs_list.php?boardT=v&board_data=aWR4PTIyNDcmc3RhcnRQYWdlPTAmbGlzdE5vPTM2JnRhYmxlPXJlZF9iYnNfZGF0YSZjb2RlPWNvbnNwJnNlYXJjaF9pdGVtPSZzZWFyY2hfb3JkZXI9||&search_items=Y29kZT1jb25zcCZfJnNlYXJjaF9pdGVtPSZfJnNlYXJjaF9vcmRlcj0mXyZ1bnNpbmdjb2RlMT0xMjkzMDk5NTkwJl8mdW5zaW5nY29kZTI9MTI5MzEwMDY4NCZfJnVuc2luZ2NvZGUzPSZfJmNhdGU9Jl8mcHdkPQ==||)
   [{증빙자료}](https://blog.naver.com/ehddml70/222774626639)
   
