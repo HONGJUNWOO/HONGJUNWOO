@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHONGJUNWOO&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![header](https://capsule-render.vercel.app/api?color=6FC7E1&height=200&text=홍준우%20&이력서&fontSize=60)<br>
+![header](https://capsule-render.vercel.app/api?color=6FC7E1&height=200&text=홍준우%20이력서&fontSize=60)<br>
 
 <br>
 
