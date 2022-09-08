@@ -61,12 +61,12 @@
 
 
 ## 5. 학술대회
+※ 학술대회 관련 자료: [{증빙자료}](https://github.com/HONGJUNWOO/Conference)
 - 홍준우, 원종관, 홍태호. (2021, June 2th). A comparative analysis of travelers’online reviews among China, South Korea, and USA using sentiment analysis in
 the era of the COVID-19 pandemic, 2021 한국IT서비스학회 춘계학술대회.
 - 홍준우, 김은미, 홍태호. (2021, June 11th). 감성분석을 적용한 코로나 전후의 국내 호텔등급별 리뷰 비교 분석, 2021년 한국지능정보시스템학회 춘계학술대회
 - 홍준우, 김은미, 김상희, 홍태호. (2021, November 5th). 온라인 리뷰의 속성별 감성값을 이용한 호텔추천. 2021 한국인터넷전자상거래학회 추계학술대회
 - 홍준우, 홍태호., (2022, June 10th). 온라인 리뷰의 텍스트 마이닝을 이용한 통합 감성 기반의 지능형 추천시스템. 2022 경영정보관련 춘계통합학술대회<br>
-※ 학술대회 자료: [{증빙자료}](https://github.com/HONGJUNWOO/Conference)
 
 #  
 
