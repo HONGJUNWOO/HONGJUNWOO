@@ -28,7 +28,8 @@
 __※ 프로젝트 자료__: 
 - (2021) 코로나19 팬데믹 상황에서 감성분석을 이용한 여행자의 온라인 리뷰 비교 분석: 미국, 중국, 한국
 - (2021) 1인 가구를 위한 맞춤형 상품 제안: 기웅정보통신
-- (2021) 우리의 삶이 변한 만큼 도로 위험도 변한다: 국토교통부 
+- (2021) 우리의 삶이 변한 만큼 도로 위험도 변한다: 국토교통부
+[{해커톤개요}](https://dacon.io/competitions/official/235758/overview/description) [{증빙자료}](https://dacon.io/competitions/official/235758/codeshare/3154) 
 - (2022) 고객 리뷰의 상품속성과 고객속성을 통합한 지능형 추천시스템
 #
 
@@ -44,7 +45,6 @@ __※ 프로젝트 자료__:
 - __직무관련 경험__:
   * (2020) 디지털트랜스포메이션을 통한 사회현안을 해결방법제시 및 새로운 서비스: 한국경영정보학회 주관 <br/> 
   아이디어 공모전 참여 - [{공모전개요}](https://www.kmis.or.kr/kmis/sub02/sub02_view.asp?Idx=1743&gotoPage=8&sBCode=A01&sItem=&sTxt=) {증빙자료}
-  * (2021) 우리의 삶이 변한 만큼 도로 위험도 변한다: 국토교통부 주관 온라인 해커톤 경진대회 상위23% - [{해커톤개요}](https://dacon.io/competitions/official/235758/overview/description) [{증빙자료}](https://dacon.io/competitions/official/235758/codeshare/3154)
   * (2021) 리뷰 빅데이터를 이용한 소상공인 마케팅 AI 어드바이저: ICT챌린지2021 아이디어 공모전 참여 - [{공모전개요}](http://itrc.or.kr/sub/event/challenge.asp?mode=view&bid=9&s_type=&s_keyword=&s_cate=&idx=2170&page=1) {증빙자료}
   
 - __직무관련 자격증__: [{증빙자료}](https://blog.naver.com/ehddml70/222866099772) <br>
