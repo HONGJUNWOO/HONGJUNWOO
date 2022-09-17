@@ -24,7 +24,7 @@
 
 - __포트폴리오__: 
    - 프로필 증빙자료: [네이버 블로그](https://blog.naver.com/ehddml70)
-   - 프로젝트 및 관련 활동: [노션](https://blog.naver.com/ehddml70)
+   - 프로젝트 및 관련 활동: [노션](https://www.notion.so/baa868e5c6ea4ffc8c0d08c17d8b3459)
    
 #
 
