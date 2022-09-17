@@ -67,7 +67,6 @@ __※ 프로젝트 자료__:
 
 
 ## 5. 학술대회
-__※ 학술대회 관련 자료__:
 - 홍준우, 원종관, 홍태호. (2021, June 2th). A comparative analysis of travelers’online reviews among China, South Korea, and USA using sentiment analysis in
 the era of the COVID-19 pandemic, 2021 한국IT서비스학회 춘계학술대회.
 [{증빙자료}](https://github.com/HONGJUNWOO/Conference/blob/main/%EC%BD%94%EB%A1%9C%EB%82%9819%20%ED%8C%AC%EB%8D%B0%EB%AF%B9%20%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C%20%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%AF%B8%EA%B5%AD%2C%20%EC%A4%91%EA%B5%AD%2C%20%ED%95%9C%EA%B5%AD%20%EC%97%AC%ED%96%89%EC%9E%90%EC%9D%98%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EB%A6%AC%EB%B7%B0%20%EB%B9%84%EA%B5%90%20%EB%B6%84%EC%84%9D.pdf)
