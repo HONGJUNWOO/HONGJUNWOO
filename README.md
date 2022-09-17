@@ -5,7 +5,7 @@
 <br>
 
 **<div align=center> 안녕하세요. 방문해주셔서 감사합니다:exclamation::exclamation: </div>**
-**<div align=center> :wave::wave:늘 성실하고 겸손하게 전진하는 인재가 되도록 노력하겠습니다:wave::wave: </div>**
+**<div align=center> :wave::wave:성실하고 겸손한 인재가 되도록하겠습니다:wave::wave: </div>**
 <br>
 
 ## 1. 자기소개
