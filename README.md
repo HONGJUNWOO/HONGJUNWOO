@@ -4,10 +4,6 @@
 
 <br>
 
-**<div align=center> 안녕하세요. 저의 이력서 페이지를  방문해주셔서 감사합니다:exclamation::exclamation: </div>**
-**<div align=center> :wave::wave:늘 성실하고 겸손하게 전진하는 인재가 되도록 노력하겠습니다:wave::wave: </div>**
-<br>
-
 ## 1. 자기소개
 - __학력__: 
    - 울산대학교 경영정보시스템 학사학위 졸업 <br>
