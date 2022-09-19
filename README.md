@@ -23,8 +23,8 @@
    - 공공데이터, 기업 사례분석 등 데이터 분석 경진대회와 아이디어 공모전을 참여한 실무적 경험
 
 - __포트폴리오__: 
-   - [네이버 블로그](https://blog.naver.com/ehddml70): 홍준우프로필 증빙 자료
-   - [노션](https://www.notion.so/baa868e5c6ea4ffc8c0d08c17d8b3459): 프로젝트 및 관련 활동
+   - __홍준우 프로필 증빙자료__: [네이버 블로그](https://blog.naver.com/ehddml70)
+   - __연구 프로젝트 및 관련 활동__: [노션](https://www.notion.so/baa868e5c6ea4ffc8c0d08c17d8b3459)
    
 #
 
