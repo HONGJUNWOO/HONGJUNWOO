@@ -4,8 +4,8 @@
 
 <br>
 
-**<div align=center> 안녕하세요. 방문해주셔서 감사합니다:exclamation::exclamation: </div>**
-**<div align=center> :wave::wave:성실하고 겸손한 인재가 되도록하겠습니다:wave::wave: </div>**
+**<div align=center> 안녕하세요. 방문해 주셔서 감사합니다:exclamation: </div>**
+**<div align=center>:wave::wave: 겸손한 자세로 꾸준히 발전하는 인재가 되겠습니다:wave::wave: </div>**
 <br>
 
 ## 1. 자기소개
