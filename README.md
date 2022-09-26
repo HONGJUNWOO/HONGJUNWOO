@@ -13,7 +13,9 @@
    - (2020) 울산대학교 경영정보시스템 학사학위 졸업 <br>
    - (2023) 부산대학교 경영정보시스템 석사학위 졸업 예정 <br> 
  &nbsp; ※ 소속: [PNU IBA_Lab](http://ibalab.quv.kr/)
-- __보유기술__: <img src="https://img.shields.io/badge/python-3776AB??style=flat&logo=appveyor=python&logoColor=white">
+- __보유기술__: 
+<img src="https://img.shields.io/badge/python-3776AB??style=Plastic&logo=appveyor=python&logoColor=white">, <img src="https://img.shields.io/badge/HTML-3776AB??style=Plastic&logo=appveyor=HTML&logoColor=white">, <img src="https://img.shields.io/badge/SQL-3776AB??style=Plastic&logo=appveyor=SQL&logoColor=white">
+
 - __연구분야__: 비즈니스 분석, 텍스트 마이닝, 자연어 처리, 군집분석, 추천시스템 등
 - __역량소개__: 
    - 정형/비정형 형태의 데이터를 분석하여 비즈니스 문제를 해결한 경험
