@@ -14,7 +14,7 @@
    - (2023) 부산대학교 경영정보시스템 석사학위 졸업 예정 <br> 
  &nbsp; ※ 소속: [PNU IBA_Lab](http://ibalab.quv.kr/)
 - __보유기술__: 
-<img src="https://img.shields.io/badge/python-3776AB??style=Plastic&logo=appveyor=python&logoColor=white">, <img src="https://img.shields.io/badge/HTML-3776AB??style=Plastic&logo=appveyor=HTML&logoColor=white">, <img src="https://img.shields.io/badge/SQL-3776AB??style=Plastic&logo=appveyor=SQL&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB??style=Plastic&logo=appveyor=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML-3776AB??style=Plastic&logo=appveyor=HTML&logoColor=white"> <img src="https://img.shields.io/badge/SQL-3776AB??style=Plastic&logo=appveyor=SQL&logoColor=white">
 
 - __연구분야__: 비즈니스 분석, 텍스트 마이닝, 자연어 처리, 군집분석, 추천시스템 등
 - __역량소개__: 
@@ -25,8 +25,8 @@
    - 공공데이터, 기업 사례분석 등 데이터 분석 경진대회와 아이디어 공모전을 참여한 실무적 경험
 
 - __포트폴리오__: 
-   - __증빙자료__: [네이버 블로그](https://blog.naver.com/ehddml70)
-   - __연구 프로젝트 및 관련 활동__: [노션](https://www.notion.so/baa868e5c6ea4ffc8c0d08c17d8b3459)
+   - 증빙자료: [네이버 블로그](https://blog.naver.com/ehddml70)
+   - 연구 프로젝트 및 관련 활동: [노션](https://www.notion.so/baa868e5c6ea4ffc8c0d08c17d8b3459)
    
 #
 
