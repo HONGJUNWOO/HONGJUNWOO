@@ -10,8 +10,8 @@
 
 ## 1. 자기소개
 - __학력__: 
-   - 울산대학교 경영정보시스템 학사학위 졸업 <br>
-   - 부산대학교 경영정보시스템 석사학위 졸업예정(2023.02) <br> 
+   - (2020) 울산대학교 경영정보시스템 학사학위 졸업 <br>
+   - (2023) 부산대학교 경영정보시스템 석사학위 졸업 예정 <br> 
  &nbsp; ※ 소속: [PNU IBA_Lab](http://ibalab.quv.kr/)
 - __보유기술__: <img src="https://img.shields.io/badge/python-3776AB??style=flat&logo=appveyor=python&logoColor=white">
 - __연구분야__: 비즈니스 분석, 텍스트 마이닝, 자연어 처리, 군집분석, 추천시스템 등
