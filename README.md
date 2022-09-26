@@ -47,7 +47,7 @@ __※ 프로젝트 자료__:
 
 ## 3. 수상 및 기타
 - __수상이력__: 
-  * (2021) ICEC 2021(22nd International Conference on Electronic Commerce)/BEST PAPER [{학회 개요}](https://it.swufe.edu.cn/events/icec_2021/)
+  * (2021) ICEC 2021(22nd International Conference on Electronic Commerce)/BEST PAPER [{학회개요}](https://it.swufe.edu.cn/events/icec_2021/)
   [{증빙자료}](https://blog.naver.com/ehddml70/222774622903)
   * (2021) 2021 디지털금융 국제포럼 Design Thinking: BK21 Four 부산대학교 디지털금융 교육연구단/장려상 [{증빙자료}](https://blog.naver.com/ehddml70/222868992817)
   * (2022) 2022 경영정보관련 춘계통합학술대회: 한국정보시스템학회 주관/최우수 논문상 [{학회개요}](http://www.ekais.or.kr/skin_build61/bbs_list.php?boardT=v&board_data=aWR4PTIyNDcmc3RhcnRQYWdlPTAmbGlzdE5vPTM2JnRhYmxlPXJlZF9iYnNfZGF0YSZjb2RlPWNvbnNwJnNlYXJjaF9pdGVtPSZzZWFyY2hfb3JkZXI9||&search_items=Y29kZT1jb25zcCZfJnNlYXJjaF9pdGVtPSZfJnNlYXJjaF9vcmRlcj0mXyZ1bnNpbmdjb2RlMT0xMjkzMDk5NTkwJl8mdW5zaW5nY29kZTI9MTI5MzEwMDY4NCZfJnVuc2luZ2NvZGUzPSZfJmNhdGU9Jl8mcHdkPQ==||)
@@ -76,15 +76,15 @@ __※ 프로젝트 자료__:
 ## 5. 학술대회
 - 홍준우, 원종관, 홍태호. (2021, June 2th). A comparative analysis of travelers’online reviews among China, South Korea, and USA using sentiment analysis in
 the era of the COVID-19 pandemic, 2021 한국IT서비스학회 춘계학술대회.
-[{증빙자료}](https://github.com/HONGJUNWOO/Conference/blob/main/%EC%BD%94%EB%A1%9C%EB%82%9819%20%ED%8C%AC%EB%8D%B0%EB%AF%B9%20%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C%20%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%AF%B8%EA%B5%AD%2C%20%EC%A4%91%EA%B5%AD%2C%20%ED%95%9C%EA%B5%AD%20%EC%97%AC%ED%96%89%EC%9E%90%EC%9D%98%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EB%A6%AC%EB%B7%B0%20%EB%B9%84%EA%B5%90%20%EB%B6%84%EC%84%9D.pdf)
+[{발표자료}](https://github.com/HONGJUNWOO/Conference/blob/main/%EC%BD%94%EB%A1%9C%EB%82%9819%20%ED%8C%AC%EB%8D%B0%EB%AF%B9%20%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C%20%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%AF%B8%EA%B5%AD%2C%20%EC%A4%91%EA%B5%AD%2C%20%ED%95%9C%EA%B5%AD%20%EC%97%AC%ED%96%89%EC%9E%90%EC%9D%98%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EB%A6%AC%EB%B7%B0%20%EB%B9%84%EA%B5%90%20%EB%B6%84%EC%84%9D.pdf)
 - 홍준우, 김은미, 홍태호. (2021, June 11th). 감성분석을 적용한 코로나 전후의 국내 호텔등급별 리뷰 비교 분석, 2021년 한국지능정보시스템학회 춘계학술대회
-[{증빙자료}](https://github.com/HONGJUNWOO/Conference/blob/main/%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D%EC%9D%84%20%EC%A0%81%EC%9A%A9%ED%95%9C%20%EC%BD%94%EB%A1%9C%EB%82%98%20%EC%A0%84%ED%9B%84%EC%9D%98%20%EA%B5%AD%EB%82%B4%20%ED%98%B8%ED%85%94%EB%93%B1%EA%B8%89%EB%B3%84%20%EB%A6%AC%EB%B7%B0%20%EB%B9%84%EA%B5%90%20%EB%B6%84%EC%84%9D.pdf)
+[{발표자료}](https://github.com/HONGJUNWOO/Conference/blob/main/%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D%EC%9D%84%20%EC%A0%81%EC%9A%A9%ED%95%9C%20%EC%BD%94%EB%A1%9C%EB%82%98%20%EC%A0%84%ED%9B%84%EC%9D%98%20%EA%B5%AD%EB%82%B4%20%ED%98%B8%ED%85%94%EB%93%B1%EA%B8%89%EB%B3%84%20%EB%A6%AC%EB%B7%B0%20%EB%B9%84%EA%B5%90%20%EB%B6%84%EC%84%9D.pdf)
 - 홍준우, 김은미, 김상희, 홍태호. (2021, November 5th). 온라인 리뷰의 속성별 감성값을 이용한 호텔추천. 2021 한국인터넷전자상거래학회 추계학술대회
-[{증빙자료}](https://github.com/HONGJUNWOO/Conference/blob/main/%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EB%A6%AC%EB%B7%B0%EC%9D%98%20%EC%86%8D%EC%84%B1%EB%B3%84%20%EA%B0%90%EC%84%B1%EA%B0%92%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%98%B8%ED%85%94%EC%B6%94%EC%B2%9C.pdf)
-[{참석후기}](https://blog.naver.com/ehddml70/222774624023)
+[{발표자료}](https://github.com/HONGJUNWOO/Conference/blob/main/%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EB%A6%AC%EB%B7%B0%EC%9D%98%20%EC%86%8D%EC%84%B1%EB%B3%84%20%EA%B0%90%EC%84%B1%EA%B0%92%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%98%B8%ED%85%94%EC%B6%94%EC%B2%9C.pdf)
+[{증빙자료}](https://blog.naver.com/ehddml70/222774624023)
 - 홍준우, 홍태호., (2022, June 10th). 온라인 리뷰의 텍스트 마이닝을 이용한 통합 감성 기반의 지능형 추천시스템. 2022 경영정보관련 춘계통합학술대회
-[{증빙자료}](https://github.com/HONGJUNWOO/Conference/blob/main/%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EB%A6%AC%EB%B7%B0%EC%9D%98%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%A7%88%EC%9D%B4%EB%8B%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%86%B5%ED%95%A9%20%EA%B0%90%EC%84%B1%20%EA%B8%B0%EB%B0%98%EC%9D%98%20%EC%A7%80%EB%8A%A5%ED%98%95%20%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf)
-[{참석후기}](https://blog.naver.com/ehddml70/222774626639)
+[{발표자료}](https://github.com/HONGJUNWOO/Conference/blob/main/%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EB%A6%AC%EB%B7%B0%EC%9D%98%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%A7%88%EC%9D%B4%EB%8B%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%86%B5%ED%95%A9%20%EA%B0%90%EC%84%B1%20%EA%B8%B0%EB%B0%98%EC%9D%98%20%EC%A7%80%EB%8A%A5%ED%98%95%20%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf)
+[{증빙자료}](https://blog.naver.com/ehddml70/222774626639)
 
 #  
 
