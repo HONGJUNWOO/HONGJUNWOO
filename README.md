@@ -67,8 +67,7 @@
 ## 4. 논문📃
 - 홍준우 and 홍태호. (2021). **코로나19 팬데믹 상황에서 감성분석을 이용한 미국, 중국, 한국 여행자의 온라인 리뷰 비교 분석**. 한국IT서비스학회지, 20(5), 159-176. 
 [{증빙자료}](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002772823)
-- 홍태호, 홍준우, 김은미 and 김민수. (2022). **영화 리뷰의 상품 속성과 고객 속성을 통합한 지능형 추천시스템**. 지능정보연구, 28(2), 1-18. 
-&nbsp;&nbsp; [{증빙자료}](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002854695)
+- 홍태호, 홍준우, 김은미 and 김민수. (2022). **영화 리뷰의 상품 속성과 고객 속성을 통합한 지능형 추천시스템**. 지능정보연구, 28(2), 1-18. [{증빙자료}](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002854695)
 #  
 
 
