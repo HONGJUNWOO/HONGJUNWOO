@@ -16,7 +16,8 @@
 - __보유기술__: 
 <img src="https://img.shields.io/badge/python-3776AB??style=Plastic&logo=appveyor=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML-3776AB??style=Plastic&logo=appveyor=HTML&logoColor=white"> <img src="https://img.shields.io/badge/SQL-3776AB??style=Plastic&logo=appveyor=SQL&logoColor=white">
 
-- __연구분야__: **비즈니스 분석, 텍스트 마이닝, 자연어 처리, 군집분석, 추천시스템 등**
+- __연구분야__: 비즈니스 분석, 텍스트 마이닝, 자연어 처리, 군집분석, 추천시스템 등 <br>
+   **※ 전자상거래 시장의 고객을 분석하고 개인 특성을 고려한 개인화 추천시스템에 관심있음.**
 - __역량소개__: 
    - **정형/비정형 형태의 데이터를 분석**하여 비즈니스 문제를 해결한 경험
    - 제한된 연구환경에서 **기획 단계부터 비즈니스 문제 해결**까지 프로젝트 담당 및 참여 경험
