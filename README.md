@@ -27,7 +27,7 @@
 
 - __포트폴리오__: 
    - __증빙자료__: [네이버 블로그](https://blog.naver.com/ehddml70)
-   - __연구 프로젝트__: [노션](https://www.notion.so/baa868e5c6ea4ffc8c0d08c17d8b3459)
+   - __연구 프로젝트__: [노션](https://www.notion.so/45f92fb13534456fb6a7fc760048f784)
    
 #
 
