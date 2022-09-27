@@ -54,7 +54,7 @@
   
 - __직무관련 경험__:
   * (2020) 디지털트랜스포메이션을 통한 사회현안을 해결방법제시 및 새로운 서비스: <br/>
-  **한국경영정보학회 주관 아이디어 공모전/참여** [{공모전개요}](https://www.kmis.or.kr/kmis/sub02/sub02_view.asp?Idx=1743&gotoPage=8&sBCode=A01&sItem=&sTxt=) [{증빙자료}](https://github.com/HONGJUNWOO/Job-related-Experience/blob/main/%EB%94%94%EC%A7%80%ED%84%B8%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A9%94%EC%9D%B4%EC%85%98%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%82%AC%ED%9A%8C%ED%98%84%EC%95%88%EC%9D%84%20%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95%EC%A0%9C%EC%8B%9C%20%EB%B0%8F%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EC%84%9C%EB%B9%84%EC%8A%A4.pdf)
+  **한국경영정보학회추계학술대회 아이디어 공모전/참여** [{공모전개요}](https://www.kmis.or.kr/kmis/sub02/sub02_view.asp?Idx=1743&gotoPage=8&sBCode=A01&sItem=&sTxt=) [{증빙자료}](https://github.com/HONGJUNWOO/Job-related-Experience/blob/main/%EB%94%94%EC%A7%80%ED%84%B8%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A9%94%EC%9D%B4%EC%85%98%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%82%AC%ED%9A%8C%ED%98%84%EC%95%88%EC%9D%84%20%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95%EC%A0%9C%EC%8B%9C%20%EB%B0%8F%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EC%84%9C%EB%B9%84%EC%8A%A4.pdf)
   * (2021) 리뷰 빅데이터를 이용한 소상공인 마케팅 AI 어드바이저: **ICT챌린지2021 아이디어 공모전/참여** [{공모전개요}](http://itrc.or.kr/sub/event/challenge.asp?mode=view&bid=9&s_type=&s_keyword=&s_cate=&idx=2170&page=1) [{증빙자료}](https://github.com/HONGJUNWOO/Job-related-Experience/blob/main/%EB%A6%AC%EB%B7%B0%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%86%8C%EC%83%81%EA%B3%B5%EC%9D%B8%20%EB%A7%88%EC%BC%80%ED%8C%85%20AI%20%EC%96%B4%EB%93%9C%EB%B0%94%EC%9D%B4%EC%A0%80.pdf)
   
 - __직무관련 자격증__: [{증빙자료}](https://blog.naver.com/ehddml70/222866099772) <br>
