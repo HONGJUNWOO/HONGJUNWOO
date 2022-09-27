@@ -18,11 +18,11 @@
 
 - __연구분야__: 비즈니스 분석, 텍스트 마이닝, 자연어 처리, 군집분석, 추천시스템 등
 - __역량소개__: 
-   - 정형/비정형 형태의 데이터를 분석하여 비즈니스 문제를 해결한 경험
-   - 제한된 연구환경에서 기획 단계부터 비즈니스 문제 해결까지 프로젝트 담당 및 참여 경험
-   - 프로젝트 경험을 통해 다양한 팀의 구성원들과 업무협업 경험
-   - 국외/국내 학술대회 참여 및 발표, 논문 게재 등 학술적 경험
-   - 공공 데이터, 기업 사례분석 등 데이터 분석 경진대회와 아이디어 공모전을 참여한 실무적 경험
+   - **정형/비정형 형태의 데이터를 분석**하여 비즈니스 문제를 해결한 경험
+   - 제한된 연구환경에서 **기획 단계부터 비즈니스 문제 해결**까지 프로젝트 담당 및 참여 경험
+   - 프로젝트 경험을 통해 다양한 팀의 구성원들과 **업무협업 경험**
+   - 국외/국내 학술대회 참여 및 발표, 논문 게재 등 **학술적 경험**
+   - 공공 데이터, 기업 사례분석 등 데이터 분석 경진대회와 아이디어 공모전을 참여한 **실무적 경험**
 
 - __포트폴리오__: 
    - __증빙자료__: [네이버 블로그](https://blog.naver.com/ehddml70)
@@ -32,13 +32,13 @@
 
 
 ## 2. 프로젝트💻
-- (2021, 국토교통부) 우리의 삶이 변한 만큼 도로 위험도 변한다
+- (2021, **국토교통부**) 우리의 삶이 변한 만큼 도로 위험도 변한다
 [{증빙자료}](https://www.notion.so/01-511899045feb42e08eb5787802fb55f0)
-- (2021, IBA Lab) 코로나19 팬데믹 상황에서 감성분석을 이용한 여행자의 온라인 리뷰 비교 분석: 미국, 중국, 한국
+- (2021, **IBA Lab**) 코로나19 팬데믹 상황에서 감성분석을 이용한 여행자의 온라인 리뷰 비교 분석: 미국, 중국, 한국
 [{증빙자료}](https://www.notion.so/02-19-35415a806ba947c38dfcf686a9e136d5)
-- (2021, 기웅정보통신) 기업 사례분석: 1인 가구를 위한 맞춤형 상품 제안
+- (2021, **기웅정보통신**) 기업 사례분석: 1인 가구를 위한 맞춤형 상품 제안
 [{증빙자료}](https://www.notion.so/03-1-97c171e95ce748eb84f9e2dde9dc6197)
-- (2022, IBA Lab) 고객 리뷰의 상품속성과 고객속성을 통합한 지능형 추천시스템
+- (2022, **IBA Lab**) 고객 리뷰의 상품속성과 고객속성을 통합한 지능형 추천시스템
 [{증빙자료}](https://www.notion.so/04-3b9830031ec1480c940391bfce30b1b5)
 
 #
@@ -46,21 +46,21 @@
 
 ## 3. 수상 및 기타🏆
 - __수상이력__: 
-  * (2021) ICEC 2021(22nd International Conference on Electronic Commerce)/BEST PAPER [{학회개요}](https://it.swufe.edu.cn/events/icec_2021/)
+  * (2021) ICEC 2021(22nd International Conference on Electronic Commerce)/**BEST PAPER** [{학회개요}](https://it.swufe.edu.cn/events/icec_2021/)
   [{증빙자료}](https://blog.naver.com/ehddml70/222774622903)
-  * (2021) 2021 디지털금융 국제포럼 Design Thinking: BK21 Four 부산대학교 디지털금융 교육연구단/장려상 [{증빙자료}](https://blog.naver.com/ehddml70/222868992817)
-  * (2022) 2022 경영정보관련 춘계통합학술대회: 한국정보시스템학회 주관/최우수 논문상 [{학회개요}](http://www.ekais.or.kr/skin_build61/bbs_list.php?boardT=v&board_data=aWR4PTIyNDcmc3RhcnRQYWdlPTAmbGlzdE5vPTM2JnRhYmxlPXJlZF9iYnNfZGF0YSZjb2RlPWNvbnNwJnNlYXJjaF9pdGVtPSZzZWFyY2hfb3JkZXI9||&search_items=Y29kZT1jb25zcCZfJnNlYXJjaF9pdGVtPSZfJnNlYXJjaF9vcmRlcj0mXyZ1bnNpbmdjb2RlMT0xMjkzMDk5NTkwJl8mdW5zaW5nY29kZTI9MTI5MzEwMDY4NCZfJnVuc2luZ2NvZGUzPSZfJmNhdGU9Jl8mcHdkPQ==||)
+  * (2021) 2021 디지털금융 국제포럼 Design Thinking: BK21 Four 부산대학교 디지털금융 교육연구단/**장려상** [{증빙자료}](https://blog.naver.com/ehddml70/222868992817)
+  * (2022) 2022 경영정보관련 춘계통합학술대회: 한국정보시스템학회 주관/**최우수 논문상** [{학회개요}](http://www.ekais.or.kr/skin_build61/bbs_list.php?boardT=v&board_data=aWR4PTIyNDcmc3RhcnRQYWdlPTAmbGlzdE5vPTM2JnRhYmxlPXJlZF9iYnNfZGF0YSZjb2RlPWNvbnNwJnNlYXJjaF9pdGVtPSZzZWFyY2hfb3JkZXI9||&search_items=Y29kZT1jb25zcCZfJnNlYXJjaF9pdGVtPSZfJnNlYXJjaF9vcmRlcj0mXyZ1bnNpbmdjb2RlMT0xMjkzMDk5NTkwJl8mdW5zaW5nY29kZTI9MTI5MzEwMDY4NCZfJnVuc2luZ2NvZGUzPSZfJmNhdGU9Jl8mcHdkPQ==||)
   [{증빙자료}](https://blog.naver.com/ehddml70/222774626639)
   
 - __직무관련 경험__:
   * (2020) 디지털트랜스포메이션을 통한 사회현안을 해결방법제시 및 새로운 서비스: 한국경영정보학회 주관 <br/> 
-  아이디어 공모전 참여 [{공모전개요}](https://www.kmis.or.kr/kmis/sub02/sub02_view.asp?Idx=1743&gotoPage=8&sBCode=A01&sItem=&sTxt=) [{증빙자료}](https://github.com/HONGJUNWOO/Job-related-Experience/blob/main/%EB%94%94%EC%A7%80%ED%84%B8%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A9%94%EC%9D%B4%EC%85%98%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%82%AC%ED%9A%8C%ED%98%84%EC%95%88%EC%9D%84%20%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95%EC%A0%9C%EC%8B%9C%20%EB%B0%8F%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EC%84%9C%EB%B9%84%EC%8A%A4.pdf)
-  * (2021) 리뷰 빅데이터를 이용한 소상공인 마케팅 AI 어드바이저: ICT챌린지2021 아이디어 공모전 참여 [{공모전개요}](http://itrc.or.kr/sub/event/challenge.asp?mode=view&bid=9&s_type=&s_keyword=&s_cate=&idx=2170&page=1) [{증빙자료}](https://github.com/HONGJUNWOO/Job-related-Experience/blob/main/%EB%A6%AC%EB%B7%B0%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%86%8C%EC%83%81%EA%B3%B5%EC%9D%B8%20%EB%A7%88%EC%BC%80%ED%8C%85%20AI%20%EC%96%B4%EB%93%9C%EB%B0%94%EC%9D%B4%EC%A0%80.pdf)
+  아이디어 공모전/**참여** [{공모전개요}](https://www.kmis.or.kr/kmis/sub02/sub02_view.asp?Idx=1743&gotoPage=8&sBCode=A01&sItem=&sTxt=) [{증빙자료}](https://github.com/HONGJUNWOO/Job-related-Experience/blob/main/%EB%94%94%EC%A7%80%ED%84%B8%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A9%94%EC%9D%B4%EC%85%98%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%82%AC%ED%9A%8C%ED%98%84%EC%95%88%EC%9D%84%20%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95%EC%A0%9C%EC%8B%9C%20%EB%B0%8F%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EC%84%9C%EB%B9%84%EC%8A%A4.pdf)
+  * (2021) 리뷰 빅데이터를 이용한 소상공인 마케팅 AI 어드바이저: ICT챌린지2021 아이디어 공모전/**참여** [{공모전개요}](http://itrc.or.kr/sub/event/challenge.asp?mode=view&bid=9&s_type=&s_keyword=&s_cate=&idx=2170&page=1) [{증빙자료}](https://github.com/HONGJUNWOO/Job-related-Experience/blob/main/%EB%A6%AC%EB%B7%B0%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%86%8C%EC%83%81%EA%B3%B5%EC%9D%B8%20%EB%A7%88%EC%BC%80%ED%8C%85%20AI%20%EC%96%B4%EB%93%9C%EB%B0%94%EC%9D%B4%EC%A0%80.pdf)
   
 - __직무관련 자격증__: [{증빙자료}](https://blog.naver.com/ehddml70/222866099772) <br>
-  * (2017, 2019) 컴퓨터활용능력 1, 2급: 대한상공회의소 자격평가사업단
-  * (2018) 사무자동화산업기사: 한국산업인력공단
-  * (2019) 정보처리기사: 한국산업인력공단
+  * (2017/2019, 대한상공회의소 자격평가사업단) **컴퓨터활용능력 1, 2급**
+  * (2018, 한국산업인력공단) **사무자동화산업기사**
+  * (2019, 한국산업인력공단) **정보처리기사**
 #  
 
 
