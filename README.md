@@ -1,15 +1,13 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHONGJUNWOO&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-![header](https://capsule-render.vercel.app/api?color=6FC7E1&height=200&text=홍준우%20프로필&fontSize=60)<br>
-
-# 홍준우 이력서📃
+![header](https://capsule-render.vercel.app/api?type=wave&color=6FC7E1&height=150&section=header&text=홍준우%20프로필📃&fontSize=30)
 
 
 ### 자기소개
-- __학력__: 
-   - (2020.02) 울산대학교 경영대학 경영정보전공 학사학위 졸업 <br>
-   - (2023.02) 부산대학교 일반대학원 경영대학 경영정보전공 석사학위 졸업(예정) <br>
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ※ 소속: [IBA Lab](http://ibalab.quv.kr/)
+- __학력__: (2020) 울산대학교 경영대학 경영정보전공 학사학위 졸업 <br>
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(2023) 부산대학교 일반대학원 경영대학 경영정보전공 석사학위 졸업(예정, 2023.02.24) <br>
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ※ 소속: [IBA Lab](http://ibalab.quv.kr/)
+   
+   
 - __보유기술__: 
 <img src="https://img.shields.io/badge/python-3776AB??style=Plastic&logo=appveyor=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML-3776AB??style=Plastic&logo=appveyor=HTML&logoColor=white"> <img src="https://img.shields.io/badge/SQL-3776AB??style=Plastic&logo=appveyor=SQL&logoColor=white"> <img src="https://img.shields.io/badge/Excel-3776AB??style=Plastic&logo=appveyor=Excel&logoColor=white"> <img src="https://img.shields.io/badge/Powerpoint-3776AB??style=Plastic&logo=appveyor=Powerpoint&logoColor=white">
 
