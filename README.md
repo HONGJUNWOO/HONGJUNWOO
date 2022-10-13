@@ -43,5 +43,7 @@
   - (2022) 2022 경영정보관련 춘계통합학술대회: 한국정보시스템학회 주관/**최우수 논문상** [{학회개요}](http://www.ekais.or.kr/skin_build61/bbs_list.php?boardT=v&board_data=aWR4PTIyNDcmc3RhcnRQYWdlPTAmbGlzdE5vPTM2JnRhYmxlPXJlZF9iYnNfZGF0YSZjb2RlPWNvbnNwJnNlYXJjaF9pdGVtPSZzZWFyY2hfb3JkZXI9||&search_items=Y29kZT1jb25zcCZfJnNlYXJjaF9pdGVtPSZfJnNlYXJjaF9vcmRlcj0mXyZ1bnNpbmdjb2RlMT0xMjkzMDk5NTkwJl8mdW5zaW5nY29kZTI9MTI5MzEwMDY4NCZfJnVuc2luZ2NvZGUzPSZfJmNhdGU9Jl8mcHdkPQ==||)
   [{증빙자료}](https://blog.naver.com/ehddml70/222774626639)
   
-
+- __이력서/포트폴리오 구분__: 
+   - 이력서 증빙자료: [네이버 블로그](https://blog.naver.com/ehddml70)
+   - 연구 프로젝트: [노션](https://concrete-arch-b4c.notion.site/45f92fb13534456fb6a7fc760048f784)
   
