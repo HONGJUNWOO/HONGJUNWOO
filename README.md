@@ -1,49 +1,30 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHONGJUNWOO&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![header](https://capsule-render.vercel.app/api?type=wave&color=6FC7E1&height=150&section=header&text=홍준우%20프로필📃&fontSize=30)
-
-
-### 자기소개
+## 1. 홍준우 개인정보 및 보유역량📃🎓
 - __학력__: (2020) 울산대학교 경영대학 경영정보전공 학사학위 졸업 <br>
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(2023) 부산대학교 일반대학원 경영대학 경영정보전공 석사학위 졸업(예정, 2023.02.24) <br>
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ※ 소속: [IBA Lab](http://ibalab.quv.kr/)
-   
-   
 - __보유기술__: 
 <img src="https://img.shields.io/badge/python-3776AB??style=Plastic&logo=appveyor=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML-3776AB??style=Plastic&logo=appveyor=HTML&logoColor=white"> <img src="https://img.shields.io/badge/SQL-3776AB??style=Plastic&logo=appveyor=SQL&logoColor=white"> <img src="https://img.shields.io/badge/Excel-3776AB??style=Plastic&logo=appveyor=Excel&logoColor=white"> <img src="https://img.shields.io/badge/Powerpoint-3776AB??style=Plastic&logo=appveyor=Powerpoint&logoColor=white">
-
 - __[보유자격증](https://blog.naver.com/ehddml70/222866099772)__: 정보처리(가사), 사무자동화(산업기사), 컴퓨터활용능력(1급) <br>
-- **연구분야: (정형/비정형 데이터 기반) 빅데이터 분석, 자연어처리, 텍스트 마이닝(LDA, 감성분석, 감정분석), 군집분석, 추천시스템 등** <br>
-- **관심산업: 전자상거래(상품), 관광, 영화 등**
+- **관심산업/분야: (정형/비정형 데이터) 빅데이터 분석, 자연어처리, 텍스트 마이닝(LDA, 감성분석, 감정분석), 군집분석, 추천시스템 등** <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **전자상거래(상품), 관광, 영화 등**
 
-- __역량소개__: 
-   - **정형/비정형 형태의 데이터를 분석**하여 비즈니스 문제를 해결한 경험
-   - 제한된 연구환경에서 **기획 단계부터 비즈니스 문제 해결**까지 프로젝트 담당 및 참여 경험
-   - 프로젝트 경험을 통해 다양한 팀의 구성원들과 **업무 협업 경험**
-   - 국외/국내 학술대회 참여 및 발표, 논문 게재 등 **학술적 경험**
-   - 공공 데이터, 기업 사례분석 등 데이터 분석 경진대회와 아이디어 공모전을 참여한 **실무적 경험**
+## 2. 연구 및 기타활동💻🏆📄
+- 연구 프로젝트: 
+   - **(2021, IBA Lab) 스마트관광: 호텔산업 경영전략 서비스** [{개요 및 설명}](https://www.notion.so/2021-IBA-Lab-35415a806ba947c38dfcf686a9e136d5)<br>
+   ※ 코로나19 팬데믹 상황에서 감성분석을 이용한 여행자의 온라인 리뷰 비교 분석: 미국, 중국, 한국
 
-- __포트폴리오__: 
-   - __증빙자료__: [네이버 블로그](https://blog.naver.com/ehddml70)
-   - __연구 프로젝트__: [노션](https://concrete-arch-b4c.notion.site/45f92fb13534456fb6a7fc760048f784)
-   
+   - **(2021, 기웅정보통신) 1인 가구를 위한 맞춤형 상품 서비스** [{개요 및 설명}](https://www.notion.so/2021-1-97c171e95ce748eb84f9e2dde9dc6197)<br>
+   ※ 기업 사례분석: 1인 가구를 위한 맞춤형 상품 제안
+
+   - **(2022, IBA Lab) 고객 선호도 맞춤 지능형 추천 서비스 개발** [{개요 및 설명}](https://www.notion.so/2022-IBA-Lab-3b9830031ec1480c940391bfce30b1b5)<br>
+   ※ 고객 리뷰의 상품속성과 고객속성을 통합한 지능형 추천시스템
+
+   - **(2021, 국토교통부) 교통사고 현안 분석 및 정책전략 서비스** [{개요 및 설명}](https://www.notion.so/2021-511899045feb42e08eb5787802fb55f0)<br>
+   ※ 우리의 삶이 변한 만큼 도로 위험도 변한다
 #
 
 
-## 2. 연구 프로젝트💻
-- **(2021, IBA Lab) 스마트관광: 호텔산업 경영전략 서비스** [{개요 및 설명}](https://www.notion.so/2021-IBA-Lab-35415a806ba947c38dfcf686a9e136d5)<br>
-※ 코로나19 팬데믹 상황에서 감성분석을 이용한 여행자의 온라인 리뷰 비교 분석: 미국, 중국, 한국
-- **(2021, 기웅정보통신) 1인 가구를 위한 맞춤형 상품 서비스** [{개요 및 설명}](https://www.notion.so/2021-1-97c171e95ce748eb84f9e2dde9dc6197)<br>
-※ 기업 사례분석: 1인 가구를 위한 맞춤형 상품 제안
-
-- **(2022, IBA Lab) 고객 선호도 맞춤 지능형 추천 서비스 개발** [{개요 및 설명}](https://www.notion.so/2022-IBA-Lab-3b9830031ec1480c940391bfce30b1b5)<br>
-※ 고객 리뷰의 상품속성과 고객속성을 통합한 지능형 추천시스템
-
-- **(2021, 국토교통부) 교통사고 현안 분석 및 정책전략 서비스** [{개요 및 설명}](https://www.notion.so/2021-511899045feb42e08eb5787802fb55f0)<br>
-※ 우리의 삶이 변한 만큼 도로 위험도 변한다
-#
-
-
-## 3. 수상 및 기타🏆
+## 3. 수상 및 기타
 - __수상이력__: 
   * (2021) ICEC 2021(22nd International Conference on Electronic Commerce)/**BEST PAPER** [{학회개요}](https://it.swufe.edu.cn/events/icec_2021/)
   [{증빙자료}](https://blog.naver.com/ehddml70/222774622903)
@@ -67,7 +48,7 @@
 #  
 
 
-## 5. 학술대회📄
+## 5. 학술대회
 - 홍준우, 원종관, 홍태호. (2021, June 2th). **A comparative analysis of travelers’online reviews among China, South Korea, and USA using sentiment analysis in
 the era of the COVID-19 pandemic**, 2021 한국IT서비스학회 춘계학술대회.
 [{발표자료}](https://github.com/HONGJUNWOO/Conference/blob/main/%EC%BD%94%EB%A1%9C%EB%82%9819%20%ED%8C%AC%EB%8D%B0%EB%AF%B9%20%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C%20%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%AF%B8%EA%B5%AD%2C%20%EC%A4%91%EA%B5%AD%2C%20%ED%95%9C%EA%B5%AD%20%EC%97%AC%ED%96%89%EC%9E%90%EC%9D%98%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EB%A6%AC%EB%B7%B0%20%EB%B9%84%EA%B5%90%20%EB%B6%84%EC%84%9D.pdf)
