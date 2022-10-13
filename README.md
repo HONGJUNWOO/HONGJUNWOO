@@ -1,5 +1,5 @@
 
-## 개인정보 및 보유역량
+## 1. 개인정보 및 보유역량
 - __학력__: (2020) 울산대학교 경영대학 경영정보전공 학사학위 졸업🎓 <br>
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(2023) 부산대학교 일반대학원 경영대학 경영정보전공 석사학위 [IBA Lab](http://ibalab.quv.kr/) 졸업(예정, 2023.02.24)🎓
 - __보유기술__: 
@@ -13,8 +13,7 @@
    - **다양한 형태 및 출처 데이터 분석** 경험(정형/비정형 타입의 웹 사이트, 기업, 공공 데이터 등)
    - 유관업무 관계자와 **업무 협업** 경험
    
-## 연구 활동
-- __연구 프로젝트💻__
+## 2. 연구 프로젝트💻
    - **(2021) [스마트관광: 호텔산업 경영전략 서비스](https://www.notion.so/2021-IBA-Lab-35415a806ba947c38dfcf686a9e136d5)**<br>
    ※ 비즈니스분석/호텔산업/**자연어처리,텍스트마이닝(감성분석,토픽모델링,빈도분석),시각화**/호텔리뷰데이터/Python  
    
@@ -27,6 +26,8 @@
    - **(2022) [고객 선호도 맞춤 지능형 추천 서비스 개발](https://www.notion.so/2022-IBA-Lab-3b9830031ec1480c940391bfce30b1b5)**<br>
    ※ 추천모형개발/영화산업/**자연어처리,텍스트 마이닝(LDA,감성분석,감정분석),CF,SVD**/영화리뷰데이터/Python
   
+  
+## 3. 기타 활동
 - __논문📃__
    - 홍준우,홍태호.(2021).**코로나19 팬데믹 상황에서 감성분석을 이용한 미국, 중국, 한국 여행자의 온라인 리뷰 비교 분석**. 한국IT서비스학회지, 20(5), 159-176. 
    [{증빙자료}](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002772823)
@@ -53,6 +54,5 @@
   [{증빙자료}](https://blog.naver.com/ehddml70/222774626639)
   
 - __기타 내용__: 
-   - __포트폴리오 구분__: [이력서 증빙자료](https://blog.naver.com/ehddml70) <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [연구 프로젝트](https://concrete-arch-b4c.notion.site/45f92fb13534456fb6a7fc760048f784)
+   - __포트폴리오 구분__: [이력서 증빙자료](https://blog.naver.com/ehddml70), [연구 프로젝트](https://concrete-arch-b4c.notion.site/45f92fb13534456fb6a7fc760048f784)
    - __e-mail✉️__: ehddml70@naver.com
