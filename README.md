@@ -1,6 +1,6 @@
-## 1. 개인정보 및 보유역량🎓
-- __학력__: (2020) 울산대학교 경영대학 경영정보전공 학사학위 졸업 <br>
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(2023) 부산대학교 일반대학원 경영대학 경영정보전공 석사학위 졸업(예정, 2023.02.24) <br>
+## 개인정보 및 보유역량
+- __학력__: (2020) 울산대학교 경영대학 경영정보전공 학사학위 졸업🎓 <br>
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(2023) 부산대학교 일반대학원 경영대학 경영정보전공 석사학위 졸업(예정, 2023.02.24)🎓 <br>
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ※ 소속: [IBA Lab](http://ibalab.quv.kr/)
 - __보유기술__: 
 <img src="https://img.shields.io/badge/python-3776AB??style=Plastic&logo=appveyor=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML-3776AB??style=Plastic&logo=appveyor=HTML&logoColor=white"> <img src="https://img.shields.io/badge/SQL-3776AB??style=Plastic&logo=appveyor=SQL&logoColor=white"> <img src="https://img.shields.io/badge/Excel-3776AB??style=Plastic&logo=appveyor=Excel&logoColor=white"> <img src="https://img.shields.io/badge/Powerpoint-3776AB??style=Plastic&logo=appveyor=Powerpoint&logoColor=white">
@@ -8,28 +8,34 @@
 - **관심산업/분야: (정형/비정형 데이터) 빅데이터 분석, 자연어처리, 텍스트 마이닝(LDA, 감성분석, 감정분석), 군집분석, 추천시스템 등** <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **전자상거래(상품), 관광, 영화 등**
 
-## 2. 연구 및 기타활동🏆📄📃
+## 연구 프로젝트 및 기타활동🏆📄📃
 - __연구 프로젝트💻__: 
-   - (2021) 스마트관광: 호텔산업 경영전략 서비스 [{개요 및 설명}](https://www.notion.so/2021-IBA-Lab-35415a806ba947c38dfcf686a9e136d5)<br>
-   ※ 비즈니스분석/호텔산업/온라인리뷰데이터(영어,한국어)/Python/자연어처리,텍스트마이닝(감성분석,토픽모델링,빈도분석),시각화/학술대회및논문게재/BEST PAPER
-   
-   - (2021) 교통사고 현안 분석 및 정책전략 서비스 [{개요 및 설명}](https://www.notion.so/2021-511899045feb42e08eb5787802fb55f0)<br>
-   ※ 비즈니스분석/서울특별시교통사고/공공데이터(도로,인구,교통)/Python/시각화/국토교통부해커톤경진대회/상위23%
+   - **(2021) [스마트관광: 호텔산업 경영전략 서비스](https://www.notion.so/2021-IBA-Lab-35415a806ba947c38dfcf686a9e136d5)**<br>
+   ※ 비즈니스분석/호텔산업/자연어처리,텍스트마이닝(감성분석,토픽모델링,빈도분석),시각화/호텔리뷰데이터(한국어,영어)/Python  
+   - **(2021) [교통사고 현안 분석 및 정책전략 서비스](https://www.notion.so/2021-511899045feb42e08eb5787802fb55f0)**<br>
+   ※ 비즈니스분석/교통사고/시각화/공공데이터(도로,인구,교통)/Python
+   - **(2021) [1인 가구를 위한 맞춤형 상품 서비스](https://www.notion.so/2021-1-97c171e95ce748eb84f9e2dde9dc6197)**<br>
+   ※ 금융상품서비스개발/부동산산업/시각화/기웅정보통신데이터(아파트세대별정보및관리비,가격 등)/Python
+   - **(2022) [고객 선호도 맞춤 지능형 추천 서비스 개발](https://www.notion.so/2022-IBA-Lab-3b9830031ec1480c940391bfce30b1b5)**<br>
+   ※ 추천모형개발/영화산업/자연어처리,텍스트 마이닝(LDA,감성분석,감정분석),CFSVD/영화리뷰데이터(한국어)Python
 
-   - (2021) 1인 가구를 위한 맞춤형 상품 서비스 [{개요 및 설명}](https://www.notion.so/2021-1-97c171e95ce748eb84f9e2dde9dc6197)<br>
-   ※ 금융상품개발/부동산산업/기웅정보통신데이터(아파트세대별정보및관리비,가격 등)/Python/시각화/기웅정보통신 실무과제/장려상
+- __논문__:
+   - 홍준우,홍태호.(2021).**코로나19 팬데믹 상황에서 감성분석을 이용한 미국, 중국, 한국 여행자의 온라인 리뷰 비교 분석**. 한국IT서비스학회지, 20(5), 159-176. 
+   [{증빙자료}](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002772823)
+   - 홍태호,홍준우,김은미,김민수.(2022).**영화 리뷰의 상품 속성과 고객 속성을 통합한 지능형 추천시스템**. 지능정보연구, 28(2), 1-18. [{증빙자료}](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002854695)
 
-   - (2022) 고객 선호도 맞춤 지능형 추천 서비스 개발 [{개요 및 설명}](https://www.notion.so/2022-IBA-Lab-3b9830031ec1480c940391bfce30b1b5)<br>
-   ※ 추천시스템개발/영화산업/온라인리뷰데이터(한국어)/Python/자연어처리,텍스트 마이닝(LDA,감성분석,감정분석),CFSVD/학술대회 및 논문게재/최우수 논문상
+- __학술대회__:
+   - 홍준우,원종관,홍태호.(2021, June 2th).A comparative analysis of travelers’online reviews among China, South Korea, and USA using sentiment analysis in
+   the era of the COVID-19 pandemic,2021 한국IT서비스학회 춘계학술대회. [{발표자료}](https://github.com/HONGJUNWOO/Conference/blob/main/%EC%BD%94%EB%A1%9C%EB%82%9819%20%ED%8C%AC%EB%8D%B0%EB%AF%B9%20%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C%20%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%AF%B8%EA%B5%AD%2C%20%EC%A4%91%EA%B5%AD%2C%20%ED%95%9C%EA%B5%AD%20%EC%97%AC%ED%96%89%EC%9E%90%EC%9D%98%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EB%A6%AC%EB%B7%B0%20%EB%B9%84%EA%B5%90%20%EB%B6%84%EC%84%9D.pdf) [{증빙자료}](https://blog.naver.com/ehddml70/222683529782)
+  - 홍준우,김은미,홍태호.(2021, June 11th).감성분석을 적용한 코로나 전후의 국내 호텔등급별 리뷰 비교 분석,2021년 한국지능정보시스템학회 춘계학술대회 [{발표자료}](https://github.com/HONGJUNWOO/Conference/blob/main/%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D%EC%9D%84%20%EC%A0%81%EC%9A%A9%ED%95%9C%20%EC%BD%94%EB%A1%9C%EB%82%98%20%EC%A0%84%ED%9B%84%EC%9D%98%20%EA%B5%AD%EB%82%B4%20%ED%98%B8%ED%85%94%EB%93%B1%EA%B8%89%EB%B3%84%20%EB%A6%AC%EB%B7%B0%20%EB%B9%84%EA%B5%90%20%EB%B6%84%EC%84%9D.pdf)
+   [{증빙자료}](https://blog.naver.com/ehddml70/222774579479)
+   - 홍준우,김은미,김상희,홍태호.(2021, November 5th).온라인 리뷰의 속성별 감성값을 이용한 호텔추천,2021 한국인터넷전자상거래학회 추계학술대회 [{발표자료}](https://github.com/HONGJUNWOO/Conference/blob/main/%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EB%A6%AC%EB%B7%B0%EC%9D%98%20%EC%86%8D%EC%84%B1%EB%B3%84%20%EA%B0%90%EC%84%B1%EA%B0%92%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%98%B8%ED%85%94%EC%B6%94%EC%B2%9C.pdf) [{증빙자료}](https://blog.naver.com/ehddml70/222774624023)
+   - 홍준우,홍태호.(2022, June 10th).온라인 리뷰의 텍스트 마이닝을 이용한 통합 감성 기반의 지능형 추천시스템,2022 경영정보관련 춘계통합학술대회 [{발표자료}](https://github.com/HONGJUNWOO/Conference/blob/main/%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EB%A6%AC%EB%B7%B0%EC%9D%98%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%A7%88%EC%9D%B4%EB%8B%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%86%B5%ED%95%A9%20%EA%B0%90%EC%84%B1%20%EA%B8%B0%EB%B0%98%EC%9D%98%20%EC%A7%80%EB%8A%A5%ED%98%95%20%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf) [{증빙자료}](https://blog.naver.com/ehddml70/222774626639)
 
-
-
-
-
-#
-
-
-## 3. 수상 및 기타
+- __직무관련 경험__:
+  - (2020) DT을 통한 사회현안을 해결방법제시 및 새로운 서비스: 한국경영정보학회 아이디어 공모전/참여 [{공모전개요}](https://www.kmis.or.kr/kmis/sub02/sub02_view.asp?Idx=1743&gotoPage=8&sBCode=A01&sItem=&sTxt=) [{증빙자료}](https://github.com/HONGJUNWOO/Job-related-Experience/blob/main/%EB%94%94%EC%A7%80%ED%84%B8%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A9%94%EC%9D%B4%EC%85%98%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%82%AC%ED%9A%8C%ED%98%84%EC%95%88%EC%9D%84%20%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95%EC%A0%9C%EC%8B%9C%20%EB%B0%8F%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EC%84%9C%EB%B9%84%EC%8A%A4.pdf)
+  - (2021) 리뷰 빅데이터를 이용한 소상공인 마케팅 AI 어드바이저: ICT챌린지2021 아이디어 공모전/참여 [{공모전개요}](http://itrc.or.kr/sub/event/challenge.asp?mode=view&bid=9&s_type=&s_keyword=&s_cate=&idx=2170&page=1) [{증빙자료}](https://github.com/HONGJUNWOO/Job-related-Experience/blob/main/%EB%A6%AC%EB%B7%B0%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%86%8C%EC%83%81%EA%B3%B5%EC%9D%B8%20%EB%A7%88%EC%BC%80%ED%8C%85%20AI%20%EC%96%B4%EB%93%9C%EB%B0%94%EC%9D%B4%EC%A0%80.pdf)
+  
 - __수상이력__: 
   * (2021) ICEC 2021(22nd International Conference on Electronic Commerce)/**BEST PAPER** [{학회개요}](https://it.swufe.edu.cn/events/icec_2021/)
   [{증빙자료}](https://blog.naver.com/ehddml70/222774622903)
@@ -37,36 +43,5 @@
   * (2022) 2022 경영정보관련 춘계통합학술대회: 한국정보시스템학회 주관/**최우수 논문상** [{학회개요}](http://www.ekais.or.kr/skin_build61/bbs_list.php?boardT=v&board_data=aWR4PTIyNDcmc3RhcnRQYWdlPTAmbGlzdE5vPTM2JnRhYmxlPXJlZF9iYnNfZGF0YSZjb2RlPWNvbnNwJnNlYXJjaF9pdGVtPSZzZWFyY2hfb3JkZXI9||&search_items=Y29kZT1jb25zcCZfJnNlYXJjaF9pdGVtPSZfJnNlYXJjaF9vcmRlcj0mXyZ1bnNpbmdjb2RlMT0xMjkzMDk5NTkwJl8mdW5zaW5nY29kZTI9MTI5MzEwMDY4NCZfJnVuc2luZ2NvZGUzPSZfJmNhdGU9Jl8mcHdkPQ==||)
   [{증빙자료}](https://blog.naver.com/ehddml70/222774626639)
   
-- __직무관련 경험__:
-  * (2020) 디지털트랜스포메이션을 통한 사회현안을 해결방법제시 및 새로운 서비스: <br/>
-  **한국경영정보학회 아이디어 공모전/참여** [{공모전개요}](https://www.kmis.or.kr/kmis/sub02/sub02_view.asp?Idx=1743&gotoPage=8&sBCode=A01&sItem=&sTxt=) [{증빙자료}](https://github.com/HONGJUNWOO/Job-related-Experience/blob/main/%EB%94%94%EC%A7%80%ED%84%B8%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A9%94%EC%9D%B4%EC%85%98%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%82%AC%ED%9A%8C%ED%98%84%EC%95%88%EC%9D%84%20%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95%EC%A0%9C%EC%8B%9C%20%EB%B0%8F%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EC%84%9C%EB%B9%84%EC%8A%A4.pdf)
-  * (2021) 리뷰 빅데이터를 이용한 소상공인 마케팅 AI 어드바이저: **ICT챌린지2021 아이디어 공모전/참여** [{공모전개요}](http://itrc.or.kr/sub/event/challenge.asp?mode=view&bid=9&s_type=&s_keyword=&s_cate=&idx=2170&page=1) [{증빙자료}](https://github.com/HONGJUNWOO/Job-related-Experience/blob/main/%EB%A6%AC%EB%B7%B0%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%86%8C%EC%83%81%EA%B3%B5%EC%9D%B8%20%EB%A7%88%EC%BC%80%ED%8C%85%20AI%20%EC%96%B4%EB%93%9C%EB%B0%94%EC%9D%B4%EC%A0%80.pdf)
+
   
-
-#  
-
-
-## 4. 논문📃
-- 홍준우 and 홍태호. (2021). **코로나19 팬데믹 상황에서 감성분석을 이용한 미국, 중국, 한국 여행자의 온라인 리뷰 비교 분석**. 한국IT서비스학회지, 20(5), 159-176. 
-[{증빙자료}](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002772823)
-- 홍태호, 홍준우, 김은미 and 김민수. (2022). **영화 리뷰의 상품 속성과 고객 속성을 통합한 지능형 추천시스템**. 지능정보연구, 28(2), 1-18. [{증빙자료}](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002854695)
-#  
-
-
-## 5. 학술대회
-- 홍준우, 원종관, 홍태호. (2021, June 2th). **A comparative analysis of travelers’online reviews among China, South Korea, and USA using sentiment analysis in
-the era of the COVID-19 pandemic**, 2021 한국IT서비스학회 춘계학술대회.
-[{발표자료}](https://github.com/HONGJUNWOO/Conference/blob/main/%EC%BD%94%EB%A1%9C%EB%82%9819%20%ED%8C%AC%EB%8D%B0%EB%AF%B9%20%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C%20%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%AF%B8%EA%B5%AD%2C%20%EC%A4%91%EA%B5%AD%2C%20%ED%95%9C%EA%B5%AD%20%EC%97%AC%ED%96%89%EC%9E%90%EC%9D%98%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EB%A6%AC%EB%B7%B0%20%EB%B9%84%EA%B5%90%20%EB%B6%84%EC%84%9D.pdf)
-[{증빙자료}](https://blog.naver.com/ehddml70/222683529782)
-- 홍준우, 김은미, 홍태호. (2021, June 11th). **감성분석을 적용한 코로나 전후의 국내 호텔등급별 리뷰 비교 분석**, 2021년 한국지능정보시스템학회 춘계학술대회
-[{발표자료}](https://github.com/HONGJUNWOO/Conference/blob/main/%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D%EC%9D%84%20%EC%A0%81%EC%9A%A9%ED%95%9C%20%EC%BD%94%EB%A1%9C%EB%82%98%20%EC%A0%84%ED%9B%84%EC%9D%98%20%EA%B5%AD%EB%82%B4%20%ED%98%B8%ED%85%94%EB%93%B1%EA%B8%89%EB%B3%84%20%EB%A6%AC%EB%B7%B0%20%EB%B9%84%EA%B5%90%20%EB%B6%84%EC%84%9D.pdf)
-[{증빙자료}](https://blog.naver.com/ehddml70/222774579479)
-- 홍준우, 김은미, 김상희, 홍태호. (2021, November 5th). **온라인 리뷰의 속성별 감성값을 이용한 호텔추천**. 2021 한국인터넷전자상거래학회 추계학술대회
-[{발표자료}](https://github.com/HONGJUNWOO/Conference/blob/main/%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EB%A6%AC%EB%B7%B0%EC%9D%98%20%EC%86%8D%EC%84%B1%EB%B3%84%20%EA%B0%90%EC%84%B1%EA%B0%92%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%98%B8%ED%85%94%EC%B6%94%EC%B2%9C.pdf)
-[{증빙자료}](https://blog.naver.com/ehddml70/222774624023)
-- 홍준우, 홍태호., (2022, June 10th). **온라인 리뷰의 텍스트 마이닝을 이용한 통합 감성 기반의 지능형 추천시스템**. 2022 경영정보관련 춘계통합학술대회
-[{발표자료}](https://github.com/HONGJUNWOO/Conference/blob/main/%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EB%A6%AC%EB%B7%B0%EC%9D%98%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%A7%88%EC%9D%B4%EB%8B%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%86%B5%ED%95%A9%20%EA%B0%90%EC%84%B1%20%EA%B8%B0%EB%B0%98%EC%9D%98%20%EC%A7%80%EB%8A%A5%ED%98%95%20%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf)
-[{증빙자료}](https://blog.naver.com/ehddml70/222774626639)
-
-#  
-
