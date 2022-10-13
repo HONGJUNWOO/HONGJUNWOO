@@ -1,23 +1,19 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHONGJUNWOO&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![header](https://capsule-render.vercel.app/api?color=6FC7E1&height=200&text=홍준우%20프로필&fontSize=60)<br>
+# 홍준우 이력서📃
 
-<br>
 
-**<div align=center> 안녕하세요. 방문해 주셔서 감사합니다😳</div>**
-**<div align=center> 겸손한 자세로 꾸준히 발전하는 인재가 되겠습니다:wave:</div>**
-<br>
-
-## 1. 자기소개🎓
+### 자기소개
 - __학력__: 
-   - (2020) 울산대학교 경영정보시스템 학사학위 졸업 <br>
-   - **(2023) 부산대학교 경영정보시스템 석사학위 졸업 예정** <br> 
- &nbsp; ※ 소속 연구실: [PNU IBA_Lab](http://ibalab.quv.kr/)
+   - (2020.02) 울산대학교 경영대학 경영정보전공 학사학위 졸업 <br>
+   - (2023.02) 부산대학교 일반대학원 경영대학 경영정보전공 석사학위 졸업(예정) <br>
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ※ 소속: [IBA Lab](http://ibalab.quv.kr/)
 - __보유기술__: 
-<img src="https://img.shields.io/badge/python-3776AB??style=Plastic&logo=appveyor=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML-3776AB??style=Plastic&logo=appveyor=HTML&logoColor=white"> <img src="https://img.shields.io/badge/SQL-3776AB??style=Plastic&logo=appveyor=SQL&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB??style=Plastic&logo=appveyor=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML-3776AB??style=Plastic&logo=appveyor=HTML&logoColor=white"> <img src="https://img.shields.io/badge/SQL-3776AB??style=Plastic&logo=appveyor=SQL&logoColor=white"> <img src="https://img.shields.io/badge/Excel-3776AB??style=Plastic&logo=appveyor=Excel&logoColor=white"> <img src="https://img.shields.io/badge/Powerpoint-3776AB??style=Plastic&logo=appveyor=Powerpoint&logoColor=white">
 
-- __연구분야__: 비즈니스 분석, 텍스트 마이닝, 자연어 처리, 군집분석, 추천시스템 등 <br>
-   ※ **전자상거래 시장의 고객을 분석**하고 개인 특성을 고려한 **개인화 추천시스템**에 관심있음.
+- __[보유자격증](https://blog.naver.com/ehddml70/222866099772)__: 정보처리(가사), 사무자동화(산업기사), 컴퓨터활용능력(1급) <br>
+- **연구분야: (정형/비정형 데이터 기반) 빅데이터 분석, 자연어처리, 텍스트 마이닝(LDA, 감성분석, 감정분석), 군집분석, 추천시스템 등** <br>
+- **관심산업: 전자상거래(상품), 관광, 영화 등**
+
 - __역량소개__: 
    - **정형/비정형 형태의 데이터를 분석**하여 비즈니스 문제를 해결한 경험
    - 제한된 연구환경에서 **기획 단계부터 비즈니스 문제 해결**까지 프로젝트 담당 및 참여 경험
@@ -59,10 +55,7 @@
   **한국경영정보학회 아이디어 공모전/참여** [{공모전개요}](https://www.kmis.or.kr/kmis/sub02/sub02_view.asp?Idx=1743&gotoPage=8&sBCode=A01&sItem=&sTxt=) [{증빙자료}](https://github.com/HONGJUNWOO/Job-related-Experience/blob/main/%EB%94%94%EC%A7%80%ED%84%B8%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A9%94%EC%9D%B4%EC%85%98%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%82%AC%ED%9A%8C%ED%98%84%EC%95%88%EC%9D%84%20%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95%EC%A0%9C%EC%8B%9C%20%EB%B0%8F%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EC%84%9C%EB%B9%84%EC%8A%A4.pdf)
   * (2021) 리뷰 빅데이터를 이용한 소상공인 마케팅 AI 어드바이저: **ICT챌린지2021 아이디어 공모전/참여** [{공모전개요}](http://itrc.or.kr/sub/event/challenge.asp?mode=view&bid=9&s_type=&s_keyword=&s_cate=&idx=2170&page=1) [{증빙자료}](https://github.com/HONGJUNWOO/Job-related-Experience/blob/main/%EB%A6%AC%EB%B7%B0%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%86%8C%EC%83%81%EA%B3%B5%EC%9D%B8%20%EB%A7%88%EC%BC%80%ED%8C%85%20AI%20%EC%96%B4%EB%93%9C%EB%B0%94%EC%9D%B4%EC%A0%80.pdf)
   
-- __직무관련 자격증__: [{증빙자료}](https://blog.naver.com/ehddml70/222866099772) <br>
-  * (2017/2019, 대한상공회의소 자격평가사업단) **컴퓨터활용능력 1, 2급**
-  * (2018, 한국산업인력공단) **사무자동화산업기사**
-  * (2019, 한국산업인력공단) **정보처리기사**
+
 #  
 
 
