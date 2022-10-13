@@ -44,6 +44,6 @@
   [{증빙자료}](https://blog.naver.com/ehddml70/222774626639)
   
 - __기타 내용__: 
-   - __포트폴리오 구분__: 이력서 증빙자료[(네이버 블로그)](https://blog.naver.com/ehddml70)
-                         연구 프로젝트[(노션)](https://concrete-arch-b4c.notion.site/45f92fb13534456fb6a7fc760048f784)
-   - __e-mail__: ehddml70@naver.com
+   - __포트폴리오 구분__: [이력서 증빙자료](https://blog.naver.com/ehddml70) <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [(연구 프로젝트)](https://concrete-arch-b4c.notion.site/45f92fb13534456fb6a7fc760048f784)
+   - __e-mail✉️__: ehddml70@naver.com
