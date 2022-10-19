@@ -3,7 +3,7 @@
 - __학력__: (2020) 울산대학교 경영대학 경영정보전공 학사학위 졸업🎓 <br>
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(2023) 부산대학교 일반대학원 경영대학 경영정보전공 석사학위 [IBA Lab](http://ibalab.quv.kr/) 졸업(예정, 2023.02.24)🎓
 - __보유기술__: 
-<img src="https://img.shields.io/badge/python-3776AB??style=Plastic&logo=appveyor=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML-3776AB??style=Plastic&logo=appveyor=HTML&logoColor=white"> <img src="https://img.shields.io/badge/SQL-3776AB??style=Plastic&logo=appveyor=SQL&logoColor=white"> <img src="https://img.shields.io/badge/Excel-3776AB??style=Plastic&logo=appveyor=Excel&logoColor=white"> <img src="https://img.shields.io/badge/Powerpoint-3776AB??style=Plastic&logo=appveyor=Powerpoint&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB??style=Plastic&logo=appveyor=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML-3776AB??style=Plastic&logo=appveyor=HTML&logoColor=white"> <img src="https://img.shields.io/badge/SQL-3776AB??style=Plastic&logo=appveyor=SQL&logoColor=white"> 
 - __[보유자격증](https://blog.naver.com/ehddml70/222866099772)__: 정보처리(가사), 사무자동화(산업기사), 컴퓨터활용능력(1, 2급) <br>
 - **관심산업/분야: (정형/비정형 데이터) 빅데이터 분석, 자연어처리, 텍스트 마이닝(LDA, 감성분석, 감정분석), 군집분석, 추천시스템 등** <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **전자상거래(상품), 관광, 영화 등**
