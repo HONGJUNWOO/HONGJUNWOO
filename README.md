@@ -1,30 +1,30 @@
 
-## 1. 개인정보 및 보유역량
-- __학력__: (2020) 울산대학교 경영대학 경영정보전공 학사학위 졸업🎓 <br>
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(2023) 부산대학교 일반대학원 경영대학 경영정보전공 석사학위 [IBA Lab](http://ibalab.quv.kr/) 졸업(예정, 2023.02.24)🎓
+## 1. 홍준우 자기소개
+- __학력__: (2020) 울산대학교 경영대학 경영정보(MIS)전공 학사학위 졸업🎓 <br>
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(2023) 부산대학교 일반대학원 경영대학 경영정보(MIS)전공 석사학위 [IBA Lab](http://ibalab.quv.kr/) 졸업(예정, 2023.02.24)🎓
 - __보유기술__: 
-<img src="https://img.shields.io/badge/python-3776AB??style=Plastic&logo=appveyor=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML-3776AB??style=Plastic&logo=appveyor=HTML&logoColor=white"> <img src="https://img.shields.io/badge/SQL-3776AB??style=Plastic&logo=appveyor=SQL&logoColor=white"> 
+<img src="https://img.shields.io/badge/python(상)-3776AB??style=Plastic&logo=appveyor=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML(중)-3776AB??style=Plastic&logo=appveyor=HTML&logoColor=white"> <img src="https://img.shields.io/badge/SQL(중)-3776AB??style=Plastic&logo=appveyor=SQL&logoColor=white"> 
 - __[보유자격증](https://blog.naver.com/ehddml70/222866099772)__: 정보처리(가사), 사무자동화(산업기사), 컴퓨터활용능력(1, 2급) <br>
-- **관심산업/분야: (정형/비정형 데이터) 빅데이터 분석, 자연어처리, 텍스트 마이닝(LDA, 감성분석, 감정분석), 군집분석, 추천시스템 등** <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **전자상거래(상품), 관광, 영화 등**
+- **연구분야**: 빅데이터 분석, NLP, 텍스트 마이닝, 추천시스템, 고객분석 등 <br>
+- **관심산업**: 전자상거래, 관광, 영화 등
 - __경력요약__:
-   - **학술적 경험**(학술대회 참여/발표, 논문 게재 등) & **실무적 경험**(연구실과제, 기업사례분석, 경진대회 참여 등)
-   - **제한된 연구환경 프로젝트 기획 단계부터 비즈니스 문제 해결**까지 프로젝트 경험 & **비즈니스 문제 해결, 추천모형 구현** 등 경험
-   - **다양한 형태 및 출처 데이터 분석** 경험(정형/비정형 타입의 웹 사이트, 기업, 공공 데이터 등)
-   - 유관업무 관계자와 **업무 협업** 경험
+   - 제한된 연구환경 프로젝트 **기획 단계부터 비즈니스 문제 해결단계까지 프로젝트 경험**
+   - 프로젝트 과정을 통해 **비즈니스 문제 해결, 상품 및 추천서비스 개발 경험**
+   - **정형/비정형 타입 다양한 데이터 분석 경험**(웹 사이트, 기업, 공공 데이터 등)
    
-## 2. 연구 프로젝트 💻*4
+   
+## 2. 연구 프로젝트 
    - **(2021) [스마트관광: 호텔산업 경영전략 서비스](https://concrete-arch-b4c.notion.site/35415a806ba947c38dfcf686a9e136d5)**<br>
-   ※ 비즈니스분석/호텔산업/**자연어처리,텍스트마이닝(감성분석,토픽모델링,빈도분석),시각화**/호텔리뷰데이터/Python  
+   ※ 비즈니스분석/관광/NLP/텍스트마이닝/시각화/고객리뷰데이터/Python,HTML,SQL
    
    - **(2021) [교통사고 현안 분석 및 정책전략 서비스](https://concrete-arch-b4c.notion.site/511899045feb42e08eb5787802fb55f0)**<br>
-   ※ 비즈니스분석/교통사고/**시각화**/공공데이터(도로,인구,교통)/Python
+   ※ 비즈니스분석/도로교통실태/시각화/공공데이터(도로,인구,교통)/Python,SQL
    
    - **(2021) [1인 가구를 위한 맞춤형 상품 서비스](https://concrete-arch-b4c.notion.site/1-97c171e95ce748eb84f9e2dde9dc6197)**<br>
-   ※ 금융상품서비스개발/부동산산업/**시각화**/기웅정보통신데이터(아파트세대별정보및관리비,가격 등)/Python
+   ※ 금융상품개발/금융/시각화/협업/아파트데이터/Python,SQL
    
    - **(2022) [고객 선호도 맞춤 지능형 추천 서비스 개발](https://concrete-arch-b4c.notion.site/3b9830031ec1480c940391bfce30b1b5)**<br>
-   ※ 추천모형개발/영화산업/**자연어처리,텍스트 마이닝(LDA,감성분석,감정분석),CF,SVD**/영화리뷰데이터/Python
+   ※ 추천개발/영화/NLP/텍스트마이닝/CF/SVD/고객리뷰데이터/Python,HTML,SQL
   
   
 ## 3. 기타 활동
