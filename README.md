@@ -6,7 +6,7 @@
 - __기술__: 
 <img src="https://img.shields.io/badge/python(상)-3776AB??style=Plastic&logo=appveyor=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML(중)-3776AB??style=Plastic&logo=appveyor=HTML&logoColor=white"> <img src="https://img.shields.io/badge/SQL(중)-3776AB??style=Plastic&logo=appveyor=SQL&logoColor=white"> 
 - __[자격증](https://blog.naver.com/ehddml70/222866099772)__: 정보처리(가사), 사무자동화(산업기사), 컴퓨터활용능력(1, 2급) <br>
-- **특허출원**: 온라인 리뷰 데이터의 다속성별 평점 및 감성평점을 통합한 지능형 추천시스템
+- **특허출원**: [온라인 리뷰 데이터의 다속성별 평점 및 감성평점을 통합한 지능형 추천시스템](https://blog.naver.com/ehddml70/222919024559)
 - **연구분야: 빅데이터 분석, NLP, 텍스트 마이닝, 추천시스템, 고객분석 등** <br>
 - **관심산업: 전자상거래, 관광, 영화 등**
 - **경력요약**:
