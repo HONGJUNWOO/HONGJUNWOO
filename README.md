@@ -49,11 +49,11 @@
   
 - __수상이력🏆__
   - (2021) ICEC 2021(22nd International Conference on Electronic Commerce)/**BEST PAPER** [{학회개요}](https://it.swufe.edu.cn/events/icec_2021/)
-  [{증빙자료}](https://blog.naver.com/ehddml70/222774622903)
+  [{증빙자료}](https://www.junwoo.kr/89a1395a-587d-4356-a4d2-126fbe0fdb11)
   - (2021) 2021 디지털금융 국제포럼 Design Thinking: BK21 Four 부산대학교 디지털금융 교육연구단/**장려상** [{포럼개요}](http://pusanbizbk21.quv.kr/forum2021)
-  [{증빙자료}](https://blog.naver.com/ehddml70/222868992817)
+  [{증빙자료}](https://www.junwoo.kr/86ec2285-4bb0-4260-884d-03a1b4b9fb65)
   - (2022) 2022 경영정보관련 춘계통합학술대회: 한국정보시스템학회 주관/**최우수 논문상** [{학회개요}](http://www.ekais.or.kr/skin_build61/bbs_list.php?boardT=v&board_data=aWR4PTIyNDcmc3RhcnRQYWdlPTAmbGlzdE5vPTM2JnRhYmxlPXJlZF9iYnNfZGF0YSZjb2RlPWNvbnNwJnNlYXJjaF9pdGVtPSZzZWFyY2hfb3JkZXI9||&search_items=Y29kZT1jb25zcCZfJnNlYXJjaF9pdGVtPSZfJnNlYXJjaF9vcmRlcj0mXyZ1bnNpbmdjb2RlMT0xMjkzMDk5NTkwJl8mdW5zaW5nY29kZTI9MTI5MzEwMDY4NCZfJnVuc2luZ2NvZGUzPSZfJmNhdGU9Jl8mcHdkPQ==||)
-  [{증빙자료}](https://blog.naver.com/ehddml70/222774626639)
+  [{증빙자료}](https://www.junwoo.kr/aadf6da1-6f7e-4858-9efa-504e518ab98f)
   
 - __기타 내용__: 
    - __포트폴리오 구분__: [홍준우 포트폴리오](https://www.junwoo.kr/)
