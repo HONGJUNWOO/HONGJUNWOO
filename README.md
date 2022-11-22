@@ -16,16 +16,16 @@
    
    
 ## 2. 연구 프로젝트 
-   - **(2021) [스마트관광: 호텔산업 경영전략 서비스](https://concrete-arch-b4c.notion.site/35415a806ba947c38dfcf686a9e136d5)**<br>
+   - **(2021) [스마트관광: 호텔산업 경영전략 서비스](https://www.junwoo.kr/35415a80-6ba9-47c3-8dfc-f686a9e136d5)**<br>
    ※ 비즈니스분석/관광/NLP/텍스트마이닝/시각화/고객리뷰데이터/Python,HTML,SQL
    
-   - **(2021) [교통사고 현안 분석 및 정책전략 서비스](https://concrete-arch-b4c.notion.site/511899045feb42e08eb5787802fb55f0)**<br>
+   - **(2021) [교통사고 현안 분석 및 정책전략 서비스](https://www.junwoo.kr/51189904-5feb-42e0-8eb5-787802fb55f0)**<br>
    ※ 비즈니스분석/도로교통실태/시각화/공공데이터(도로,인구,교통)/Python,SQL
    
-   - **(2021) [1인 가구를 위한 맞춤형 상품 서비스](https://concrete-arch-b4c.notion.site/1-97c171e95ce748eb84f9e2dde9dc6197)**<br>
+   - **(2021) [1인 가구를 위한 맞춤형 상품 서비스](https://www.junwoo.kr/97c171e9-5ce7-48eb-84f9-e2dde9dc6197)**<br>
    ※ 금융상품개발/금융/시각화/협업/아파트데이터/Python,SQL
    
-   - **(2022) [고객 선호도 맞춤 지능형 추천 서비스 개발](https://concrete-arch-b4c.notion.site/3b9830031ec1480c940391bfce30b1b5)**<br>
+   - **(2022) [고객 선호도 맞춤 지능형 추천 서비스 개발](https://www.junwoo.kr/3b983003-1ec1-480c-9403-91bfce30b1b5)**<br>
    ※ 추천개발/영화/NLP/텍스트마이닝/CF/SVD/고객리뷰데이터/Python,HTML,SQL
   
   
