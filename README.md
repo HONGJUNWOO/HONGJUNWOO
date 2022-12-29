@@ -57,5 +57,4 @@
   [{증빙자료}](https://www.junwoo.kr/aadf6da1-6f7e-4858-9efa-504e518ab98f)
   
 - __기타 내용__: 
-   - __포트폴리오 구분__: [홍준우 포트폴리오](https://www.junwoo.kr/)
    - __e-mail✉️__: ehddml70@naver.com
