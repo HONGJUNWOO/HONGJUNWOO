@@ -66,7 +66,7 @@
   - (2022) 2022 경영정보관련 춘계통합학술대회: 한국정보시스템학회 주관/**최우수 논문상** [{학회개요}](http://www.ekais.or.kr/skin_build61/bbs_list.php?boardT=v&board_data=aWR4PTIyNDcmc3RhcnRQYWdlPTAmbGlzdE5vPTM2JnRhYmxlPXJlZF9iYnNfZGF0YSZjb2RlPWNvbnNwJnNlYXJjaF9pdGVtPSZzZWFyY2hfb3JkZXI9||&search_items=Y29kZT1jb25zcCZfJnNlYXJjaF9pdGVtPSZfJnNlYXJjaF9vcmRlcj0mXyZ1bnNpbmdjb2RlMT0xMjkzMDk5NTkwJl8mdW5zaW5nY29kZTI9MTI5MzEwMDY4NCZfJnVuc2luZ2NvZGUzPSZfJmNhdGU9Jl8mcHdkPQ==||)
   [{증빙자료}](https://www.junwoo.kr/aadf6da1-6f7e-4858-9efa-504e518ab98f)
   
-- __참여교육__: 
+- __참여활동__: 
   - (2022.12) [태블로(Tableau) 신병훈련소 16기 수료](https://www.junwoo.kr/8e541252-8e38-43ae-a0f9-6510b95180d0)
   - (2019.05) [DSAC M2 데이터 분석 과정 수료](https://www.junwoo.kr/4cb208df-404c-4097-91aa-52acde59046a)
    
