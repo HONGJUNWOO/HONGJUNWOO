@@ -1,5 +1,10 @@
 
-## 1. 홍준우 자기소개
+## 1. 홍준우 연락 수단
+   - __e-mail✉️__: ehddml70@naver.com
+
+
+## 2. 홍준우 자기소개
+- 포트폴리오📃__: **[https://www.junwoo.kr/](https://www.junwoo.kr/)**
 - 학력: (2020) 울산대학교 경영대학 경영정보(MIS)전공 학사학위 졸업 🎓<br>
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(2023) **부산대학교 일반대학원 경영정보(MIS)전공 경영학석사 졸업(최종학력)** 🎓<br>
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ※ 소속: [**지능형경영분석연구실(IBA Lab)**](http://ibalab.quv.kr/)<br>
@@ -17,7 +22,7 @@
    - **정형/비정형 타입 다양한 데이터 분석 경험**(웹 사이트, 기업, 공공 데이터 등)
    
    
-## 2. 프로젝트📊 
+## 3. 프로젝트📊 
    - (2021, 연구) **[스마트관광: 호텔산업 경영전략 서비스](https://www.junwoo.kr/35415a80-6ba9-47c3-8dfc-f686a9e136d5)**<br>
         &nbsp; **→ 빅데이터분석/호텔산업/웹크롤링,NLP,감성분석,LDA,빈도분석,시각화/호텔리뷰데이터/Python,HTML,SQL**
    
@@ -35,7 +40,7 @@
   
   
   
-## 3. 기타 활동
+## 4. 기타 활동
 - __논문__
    - 홍준우,홍태호.(2021).**코로나19 팬데믹 상황에서 감성분석을 이용한 미국, 중국, 한국 여행자의 온라인 리뷰 비교 분석**. 한국IT서비스학회지, 20(5), 159-176. 
    [{증빙자료}](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002772823)
@@ -64,7 +69,4 @@
 - __참여교육__: 
   - (2022.12) 태블로(Tableau) 신병훈련소 16기 수료[{증빙자료}](https://www.junwoo.kr/8e541252-8e38-43ae-a0f9-6510b95180d0)
   - (2019.05) DSAC M2 데이터 분석 과정 수료 [{증빙자료}](https://www.junwoo.kr/4cb208df-404c-4097-91aa-52acde59046a)
-
-- __기타 내용__: 
-   - __포프폴리오📃__: 
-   - __e-mail✉️__: ehddml70@naver.com
+   
