@@ -1,7 +1,7 @@
 
 ## 1. 홍준우 자기소개
 - 학력: (2020) 울산대학교 경영대학 경영정보(MIS)전공 학사학위 졸업 🎓<br>
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(2023) 부산대학교 일반대학원 경영대학 경영정보(MIS)전공 석사학위 [IBA Lab](http://ibalab.quv.kr/) 졸업(예정, 2023.02.24) 🎓<br>
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(2023) 부산대학교 일반대학원 경영대학 경영정보(MIS)전공 석사학위 [IBA Lab](http://ibalab.quv.kr/) 졸업 🎓<br>
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ※ 학위논문: 텍스트 마이닝 기반 고객 감정별 감성과 상품속성별 선호도를 통합한 지능형 추천시스템
 - **기술스택**: 
 <img src="https://img.shields.io/badge/python(상)-3776AB??style=Plastic&logo=appveyor=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML(초중)-3776AB??style=Plastic&logo=appveyor=HTML&logoColor=white"> <img src="https://img.shields.io/badge/SQL(초중)-3776AB??style=Plastic&logo=appveyor=SQL&logoColor=white"> <img src="https://img.shields.io/badge/Tableau(초)-3776AB??style=Plastic&logo=appveyor=Tableau&logoColor=white"> 
@@ -26,8 +26,12 @@
    - (2021, 기업과제) **[1인 가구를 위한 맞춤형 상품 서비스](https://www.junwoo.kr/97c171e9-5ce7-48eb-84f9-e2dde9dc6197)**<br>
        &nbsp;  **→ 금융상품개발/부동산/시각화/기웅정보통신데이터(아파트세대별정보및관리비,가격 등)/Python,SQL**
    
-   - (2022, 연구) **[고객 선호도 맞춤 지능형 추천 서비스 개발](https://www.junwoo.kr/3b983003-1ec1-480c-9403-91bfce30b1b5)**<br>
+   - (2022, 연구) **[고객 선호도 맞춤 지능형 추천시스템](https://www.junwoo.kr/3b983003-1ec1-480c-9403-91bfce30b1b5)**<br>
       &nbsp;   **→ 추천시스템개발/영화/웹크롤링, LDA, 감성분석, 감정분석, SVD/영화리뷰데이터/Python,HTML,SQL**
+   
+   - (2023, 연구) **[투자를 위한 주가예측 서비스](https://www.junwoo.kr/b14f9549-4aa3-4e0d-b8a5-6a7f87cf7bad)**<br>
+      &nbsp;   **→ 주식가격예측/금융산업/시계열분석, ARIMA, Prophet, LSTM/주식가격데이터/Python, SQL**
+  
   
   
 ## 3. 기타 활동
