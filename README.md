@@ -61,8 +61,8 @@
   [{증빙자료}](https://www.junwoo.kr/aadf6da1-6f7e-4858-9efa-504e518ab98f)
   
 - __참여교육__: 
-  - (2022.12) 태블로(Tableau) 신병훈련소 16기 수료[{증빙자료}]([http://pusanbizbk21.quv.kr/forum2021](https://www.junwoo.kr/8e541252-8e38-43ae-a0f9-6510b95180d0))
-  - (2019.05) DSAC M2 데이터 분석 과정 수료[{https://www.junwoo.kr/4cb208df-404c-4097-91aa-52acde59046a}](https://www.junwoo.kr/4cb208df-404c-4097-91aa-52acde59046a)
+  - (2022.12) 태블로(Tableau) 신병훈련소 16기 수료[{증빙자료}](https://www.junwoo.kr/8e541252-8e38-43ae-a0f9-6510b95180d0)
+  - (2019.05) DSAC M2 데이터 분석 과정 수료 [{증빙자료}](https://www.junwoo.kr/4cb208df-404c-4097-91aa-52acde59046a)
 
 - __기타 내용__: 
    - __e-mail✉️__: ehddml70@naver.com
