@@ -42,9 +42,9 @@
   
 ## 4. 기타 활동
 - __논문__
-   - 홍준우,홍태호.(2021).**[코로나19 팬데믹 상황에서 감성분석을 이용한 미국, 중국, 한국 여행자의 온라인 리뷰 비교 분석]**. 한국IT서비스학회지, 20(5), 159-176. 
-   (https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002772823)
-   - 홍태호,홍준우 외 2명.(2022).**[영화 리뷰의 상품 속성과 고객 속성을 통합한 지능형 추천시스템]**. 지능정보연구, 28(2), 1-18. (https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002854695)
+   - 홍준우,홍태호.(2021).[**코로나19 팬데믹 상황에서 감성분석을 이용한 미국, 중국, 한국 여행자의 온라인 리뷰 비교 분석**](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002772823). 한국IT서비스학회지, 20(5), 159-176. 
+   
+   - 홍태호,홍준우 외 2명.(2022).[**영화 리뷰의 상품 속성과 고객 속성을 통합한 지능형 추천시스템**](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002854695). 지능정보연구, 28(2), 1-18.
 
 - __학술대회__
    - 홍준우,원종관,홍태호.(2021, June 2th).**A comparative analysis of travelers’online reviews among China, South Korea, and USA using sentiment analysis in
@@ -67,6 +67,6 @@
   [{증빙자료}](https://www.junwoo.kr/aadf6da1-6f7e-4858-9efa-504e518ab98f)
   
 - __참여교육__: 
-  - [(2022.12) 태블로(Tableau) 신병훈련소 16기 수료](https://www.junwoo.kr/8e541252-8e38-43ae-a0f9-6510b95180d0)
-  - [(2019.05) DSAC M2 데이터 분석 과정 수료](https://www.junwoo.kr/4cb208df-404c-4097-91aa-52acde59046a)
+  - (2022.12) [태블로(Tableau) 신병훈련소 16기 수료](https://www.junwoo.kr/8e541252-8e38-43ae-a0f9-6510b95180d0)
+  - (2019.05) [DSAC M2 데이터 분석 과정 수료](https://www.junwoo.kr/4cb208df-404c-4097-91aa-52acde59046a)
    
