@@ -12,8 +12,8 @@
 - 기술스택: 
 <img src="https://img.shields.io/badge/python(상)-3776AB??style=Plastic&logo=appveyor=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML(초중)-3776AB??style=Plastic&logo=appveyor=HTML&logoColor=white"> <img src="https://img.shields.io/badge/SQL(초중)-3776AB??style=Plastic&logo=appveyor=SQL&logoColor=white"> <img src="https://img.shields.io/badge/Tableau(초)-3776AB??style=Plastic&logo=appveyor=Tableau&logoColor=white"> 
 - __[자격증](https://www.junwoo.kr/e7a0a972-9108-4250-bc63-cbfe65d4e4c7)__: 정보처리(가사), 사무자동화(산업기사), 컴퓨터활용능력(1, 2급) <br>
-- 특허출원: ①. 온라인 리뷰 데이터의 다속성별 평점 및 감성평점을 통합한 지능형 추천시스템[(2022-0139059)](https://www.junwoo.kr/a3fe8027-3bd2-4033-b653-87973dda4b28)<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;②. 빅데이터에 기반한 합성곱 신경망과 설명가능인공지능을 이용한 암호화폐 투자 로보 어드바이저[(2022-0176381)](https://www.junwoo.kr/48d3215c-2864-44b2-9f49-8735f754f6f2)
+- __[특허출원](https://www.junwoo.kr/a3fe8027-3bd2-4033-b653-87973dda4b28)__: ①. 온라인 리뷰 데이터의 다속성별 평점 및 감성평점을 통합한 지능형 추천시스템(2022-0139059)<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;②. 빅데이터에 기반한 합성곱 신경망과 설명가능인공지능을 이용한 암호화폐 투자 로보 어드바이저(2022-0176381)
 - 연구분야: **빅데이터 분석, 데이터 마이닝, 텍스트 마이닝, 추천시스템 등** <br>
 - 관심산업: **전자상거래, 관광, 영화, 금융 등**
 - 경력요약:
@@ -23,20 +23,20 @@
    
    
 ## 3. 프로젝트📊 
-   - (2021, 연구) **[스마트관광: 호텔산업 경영전략 서비스](https://www.junwoo.kr/35415a80-6ba9-47c3-8dfc-f686a9e136d5)**<br>
-        &nbsp; **→ 빅데이터분석/호텔산업/웹크롤링,NLP,감성분석,LDA,빈도분석,시각화/호텔리뷰데이터/Python,HTML,SQL**
+   - (2021, 연구과제) **[스마트관광: 호텔산업 경영전략 서비스](https://www.junwoo.kr/35415a80-6ba9-47c3-8dfc-f686a9e136d5)**<br>
+        &nbsp; → 빅데이터분석/호텔산업/**웹크롤링,NLP,감성분석,LDA,빈도분석,시각화**/호텔리뷰데이터/Python,HTML,SQL
    
    - (2021, 경진대회) **[교통사고 현안 분석 및 정책전략 서비스](https://www.junwoo.kr/51189904-5feb-42e0-8eb5-787802fb55f0)**<br>
-        &nbsp; **→ 빅데이터분석/교통산업/시각화/공공데이터(도로,교,인구)/Python,SQL**
+        &nbsp; → 빅데이터분석/교통산업/**시각화**/공공데이터(도로,교,인구)/Python,SQL
    
    - (2021, 기업과제) **[1인 가구를 위한 맞춤형 상품 서비스](https://www.junwoo.kr/97c171e9-5ce7-48eb-84f9-e2dde9dc6197)**<br>
-       &nbsp;  **→ 금융상품개발/부동산산업/시각화/기웅정보통신데이터(아파트세대별정보및관리비,가격 등)/Python,SQL**
+       &nbsp;  → 금융상품개발/부동산산업/**시각화**/기웅정보통신데이터(아파트세대별정보및관리비,가격 등)/Python,SQL
    
-   - (2022, 연구) **[고객 선호도 맞춤 지능형 추천시스템](https://www.junwoo.kr/3b983003-1ec1-480c-9403-91bfce30b1b5)**<br>
-      &nbsp;   **→  추천시스템개발/영화산업/웹크롤링,NLP,감성분석,감정분석,LDA,CF_SVD/영화리뷰데이터/Python,HTML,SQL**
+   - (2022, 연구과제) **[고객 선호도 맞춤 지능형 추천시스템](https://www.junwoo.kr/3b983003-1ec1-480c-9403-91bfce30b1b5)**<br>
+      &nbsp;   →  추천시스템개발/영화산업/**웹크롤링,NLP,감성분석,감정분석,LDA,CF,SVD**/영화리뷰데이터/Python,HTML,SQL
    
-   - (2023, 연구) **[투자를 위한 주가예측 서비스](https://www.junwoo.kr/b14f9549-4aa3-4e0d-b8a5-6a7f87cf7bad)**<br>
-      &nbsp;   **→ 주식가격예측/금융산업/시계열분석, ARIMA, Prophet, LSTM/주식가격데이터/Python,SQL**
+   - (2023, 개인연구) **[투자를 위한 주가예측 서비스](https://www.junwoo.kr/b14f9549-4aa3-4e0d-b8a5-6a7f87cf7bad)**<br>
+      &nbsp;   → 주식가격예측/금융산업/**시계열EDA, ARIMA, Prophet, LSTM**/주식가격데이터/Python,SQL
   
   
   
