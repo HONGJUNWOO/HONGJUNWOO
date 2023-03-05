@@ -4,7 +4,7 @@
 
 
 ## 2. 자기소개
-- **포트폴리오**: [**{Notion 📃}**](https://www.junwoo.kr/) 
+- [**홍준우 포트폴리오 📃**](https://www.junwoo.kr/) 
 - 학력: (2020) 울산대학교 경영대학 경영정보(MIS)전공 학사학위 졸업 🎓<br>
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(2023) **부산대학교 일반대학원 경영정보(MIS)전공 경영학석사 졸업(최종학력)** 🎓<br>
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ※ 소속: [**지능형경영분석연구실(IBA Lab)**](http://ibalab.quv.kr/)<br>
