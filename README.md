@@ -6,20 +6,20 @@
 ## 2. 자기소개
 - [**홍준우 포트폴리오 📃**](https://www.junwoo.kr/) 
 - 학력: (2020) 울산대학교 경영대학 경영정보(MIS)전공 학사학위 졸업 🎓<br>
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(2023) **부산대학교 일반대학원 경영정보(MIS)전공 경영학석사 졸업(최종학력)** 🎓<br>
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ※ 소속: [**지능형경영분석연구실(IBA Lab)**](http://ibalab.quv.kr/)<br>
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ※ 석사학위 논문명: 텍스트 마이닝 기반 고객 감정별 감성과 상품속성별 선호도를 통합한 지능형 추천시스템
-- **기술스택**: 
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(2023) **부산대학교 일반대학원 경영정보(MIS)전공 경영학석사 졸업** 🎓<br>
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ※ 소속: [**지능형경영분석 연구실(IBA Lab)**](http://ibalab.quv.kr/)<br>
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ※ 석사논문: 텍스트 마이닝 기반 고객 감정별 감성과 상품속성별 선호도를 통합한 지능형 추천시스템
+- 기술스택: 
 <img src="https://img.shields.io/badge/python(상)-3776AB??style=Plastic&logo=appveyor=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML(초중)-3776AB??style=Plastic&logo=appveyor=HTML&logoColor=white"> <img src="https://img.shields.io/badge/SQL(초중)-3776AB??style=Plastic&logo=appveyor=SQL&logoColor=white"> <img src="https://img.shields.io/badge/Tableau(초)-3776AB??style=Plastic&logo=appveyor=Tableau&logoColor=white"> 
 - __[자격증](https://www.junwoo.kr/e7a0a972-9108-4250-bc63-cbfe65d4e4c7)__: 정보처리(가사), 사무자동화(산업기사), 컴퓨터활용능력(1, 2급) <br>
-- **특허출원**: ①. 온라인 리뷰 데이터의 다속성별 평점 및 감성평점을 통합한 지능형 추천시스템[(2022-0139059)](https://www.junwoo.kr/a3fe8027-3bd2-4033-b653-87973dda4b28)<br>
+- 특허출원: ①. 온라인 리뷰 데이터의 다속성별 평점 및 감성평점을 통합한 지능형 추천시스템[(2022-0139059)](https://www.junwoo.kr/a3fe8027-3bd2-4033-b653-87973dda4b28)<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;②. 빅데이터에 기반한 합성곱 신경망과 설명가능인공지능을 이용한 암호화폐 투자 로보 어드바이저[(2022-0176381)](https://www.junwoo.kr/48d3215c-2864-44b2-9f49-8735f754f6f2)
-- **연구분야: 빅데이터 분석, 데이터 마이닝, 텍스트 마이닝, 추천시스템 등** <br>
-- **관심산업: 전자상거래, 관광, 영화 등**
+- 연구분야: **빅데이터 분석, 데이터 마이닝, 텍스트 마이닝, 추천시스템 등** <br>
+- 관심산업: **전자상거래, 관광, 영화, 금융 등**
 - 경력요약:
    - 제한된 연구환경 프로젝트 **기획 단계부터 비즈니스 문제 해결단계까지 프로젝트 경험**
    - 프로젝트 과정을 통해 **비즈니스 문제 해결, 상품 및 추천서비스 개발 경험**
-   - **정형/비정형 타입 다양한 데이터 분석 경험**(웹 사이트, 기업, 공공 데이터 등)
+   - **정형/비정형 타입 다양한 데이터 분석 경험**(전자상거래 웹사이트, 기업, 공공 등의 데이터)
    
    
 ## 3. 프로젝트📊 
