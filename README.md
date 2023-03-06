@@ -54,9 +54,9 @@
    - 홍준우,김은미, 김상희,홍태호.(2021, November 5th).**온라인 리뷰의 속성별 감성값을 이용한 호텔추천**,2021 한국인터넷전자상거래학회 추계학술대회 [{발표자료}](https://github.com/HONGJUNWOO/Conference/blob/main/%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EB%A6%AC%EB%B7%B0%EC%9D%98%20%EC%86%8D%EC%84%B1%EB%B3%84%20%EA%B0%90%EC%84%B1%EA%B0%92%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%98%B8%ED%85%94%EC%B6%94%EC%B2%9C.pdf) [{증빙자료}](https://www.junwoo.kr/9f18f3c9-b29e-41e3-9ec1-629d07c47679)
    - 홍준우,홍태호.(2022, June 10th).**온라인 리뷰의 텍스트 마이닝을 이용한 통합 감성 기반의 지능형 추천시스템**,2022 경영정보관련 춘계통합학술대회 [{발표자료}](https://github.com/HONGJUNWOO/Conference/blob/main/%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EB%A6%AC%EB%B7%B0%EC%9D%98%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%A7%88%EC%9D%B4%EB%8B%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%86%B5%ED%95%A9%20%EA%B0%90%EC%84%B1%20%EA%B8%B0%EB%B0%98%EC%9D%98%20%EC%A7%80%EB%8A%A5%ED%98%95%20%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf) [{증빙자료}](https://www.junwoo.kr/aadf6da1-6f7e-4858-9efa-504e518ab98f)
 
-- __직무관련 경험__
-  - (2020) **DT을 통한 사회현안을 해결방법제시 및 새로운 서비스**: 한국경영정보학회 아이디어 공모전/참여 [{공모전개요}](https://www.kmis.or.kr/kmis/sub02/sub02_view.asp?Idx=1743&gotoPage=8&sBCode=A01&sItem=&sTxt=) [{증빙자료}](https://github.com/HONGJUNWOO/Job-related-Experience/blob/main/%EB%94%94%EC%A7%80%ED%84%B8%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A9%94%EC%9D%B4%EC%85%98%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%82%AC%ED%9A%8C%ED%98%84%EC%95%88%EC%9D%84%20%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95%EC%A0%9C%EC%8B%9C%20%EB%B0%8F%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EC%84%9C%EB%B9%84%EC%8A%A4.pdf)
-  - (2021) **리뷰 빅데이터를 이용한 소상공인 마케팅 AI 어드바이저**: ICT챌린지2021 아이디어 공모전/참여 [{공모전개요}](http://itrc.or.kr/sub/event/challenge.asp?mode=view&bid=9&s_type=&s_keyword=&s_cate=&idx=2170&page=1) [{증빙자료}](https://github.com/HONGJUNWOO/Job-related-Experience/blob/main/%EB%A6%AC%EB%B7%B0%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%86%8C%EC%83%81%EA%B3%B5%EC%9D%B8%20%EB%A7%88%EC%BC%80%ED%8C%85%20AI%20%EC%96%B4%EB%93%9C%EB%B0%94%EC%9D%B4%EC%A0%80.pdf)
+- __[직무관련 경험](https://www.junwoo.kr/6b02cd40-0456-4aa5-bec6-99a935e8d5a9)__
+  - (2020) **DT을 통한 사회현안을 해결방법제시 및 새로운 서비스**: 한국경영정보학회 아이디어 공모전/참여
+  - (2021) **리뷰 빅데이터를 이용한 소상공인 마케팅 AI 어드바이저**: ICT챌린지2021 아이디어 공모전/참여
   
 - __수상이력🏆__
   - (2021) ICEC 2021(22nd International Conference on Electronic Commerce)/**BEST PAPER** [{학회개요}](https://it.swufe.edu.cn/events/icec_2021/)
