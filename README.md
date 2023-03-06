@@ -12,8 +12,8 @@
 - 기술스택: 
 <img src="https://img.shields.io/badge/python(상)-3776AB??style=Plastic&logo=appveyor=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML(초중)-3776AB??style=Plastic&logo=appveyor=HTML&logoColor=white"> <img src="https://img.shields.io/badge/SQL(초중)-3776AB??style=Plastic&logo=appveyor=SQL&logoColor=white"> <img src="https://img.shields.io/badge/Tableau(초)-3776AB??style=Plastic&logo=appveyor=Tableau&logoColor=white"> 
 - __[자격증](https://www.junwoo.kr/e7a0a972-9108-4250-bc63-cbfe65d4e4c7)__: 정보처리(가사), 사무자동화(산업기사), 컴퓨터활용능력(1, 2급) <br>
-- __[특허출원](https://www.junwoo.kr/a3fe8027-3bd2-4033-b653-87973dda4b28)__: ①. 온라인 리뷰 데이터의 다속성별 평점 및 감성평점을 통합한 지능형 추천시스템(2022-0139059)<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;②. 빅데이터에 기반한 합성곱 신경망과 설명가능인공지능을 이용한 암호화폐 투자 로보 어드바이저(2022-0176381)
+- __특허출원__: ①. 온라인 리뷰 데이터의 다속성별 평점 및 감성평점을 통합한 지능형 추천시스템[(**2022-0139059**)](https://www.junwoo.kr/a3fe8027-3bd2-4033-b653-87973dda4b28)<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;②. 빅데이터에 기반한 합성곱 신경망과 설명가능인공지능을 이용한 암호화폐 투자 로보 어드바이저[(**2022-0176381**)](https://www.junwoo.kr/48d3215c-2864-44b2-9f49-8735f754f6f2)
 - 연구분야: **빅데이터 분석, 데이터 마이닝, 텍스트 마이닝, 추천시스템 등** <br>
 - 관심산업: **전자상거래, 관광, 영화, 금융 등**
 - 경력요약:
