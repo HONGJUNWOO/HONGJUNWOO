@@ -37,6 +37,8 @@
    
    - (2023, 개인연구) **[투자를 위한 주가예측 서비스](https://www.junwoo.kr/b14f9549-4aa3-4e0d-b8a5-6a7f87cf7bad)**<br>
       &nbsp;   → 주식가격예측/금융산업/**시계열EDA, ARIMA, Prophet, LSTM**/주식가격데이터/Python,SQL
+   - (2023. 개인연구) **[글로벌 시장 진입을 위한 고객분석 및 분류](https://www.junwoo.kr/a674ee56-3afe-4e80-82a9-46bd41d23d27)**<br>
+      &nbsp;   → 빅데이터분석/고객분류/전자상거래산업/**ARPU, ARPPU, 퍼널분석, 연관성분석, LR, RF, GB, LightGBM, KNN, SVM**/전자상거래고객구매데이터/Python, SQL
   
   
   
