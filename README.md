@@ -1,14 +1,14 @@
 
-## 1. 연락 수단
-   - __e-mail✉️__: ehddml70@naver.com
-
+## 1. 홍준우
+- e-mail✉️: **ehddml70@naver.com**
+- [**포트폴리오 📃**](https://www.junwoo.kr/) 
+- 소속: [(**AI비즈니스연구소**)](http://aibusiness.quv.kr/)
 
 ## 2. 자기소개
-- [**홍준우 포트폴리오 📃**](https://www.junwoo.kr/) 
 - 학력: (2020) 울산대학교 경영대학 경영정보(MIS)전공 학사학위 졸업 🎓<br>
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(2023) **부산대학교 일반대학원 경영정보(MIS)전공 경영학석사 졸업** 🎓<br>
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ※ 소속: [**지능형경영분석 연구실(IBA Lab)**](http://ibalab.quv.kr/)<br>
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ※ 석사논문: 텍스트 마이닝 기반 고객 감정별 감성과 상품속성별 선호도를 통합한 지능형 추천시스템
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ※ 연구실: [**지능형경영분석 연구실(IBA Lab)**](http://ibalab.quv.kr/)<br>
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ※ 석사논문: 텍스트 마이닝 기반 고객 감정별 감성과 상품속성별 선호도를 통합한 지능형 추천시스템<br>
 - 기술스택: 
 <img src="https://img.shields.io/badge/python(상)-3776AB??style=Plastic&logo=appveyor=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML(초중)-3776AB??style=Plastic&logo=appveyor=HTML&logoColor=white"> <img src="https://img.shields.io/badge/SQL(초중)-3776AB??style=Plastic&logo=appveyor=SQL&logoColor=white"> <img src="https://img.shields.io/badge/Tableau(초)-3776AB??style=Plastic&logo=appveyor=Tableau&logoColor=white"> 
 - __[자격증](https://www.junwoo.kr/e7a0a972-9108-4250-bc63-cbfe65d4e4c7)__: 정보처리(가사), 사무자동화(산업기사), 컴퓨터활용능력(1, 2급) <br>
