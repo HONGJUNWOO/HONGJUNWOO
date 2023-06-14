@@ -73,7 +73,7 @@
   [{증빙자료}](https://www.junwoo.kr/86ec2285-4bb0-4260-884d-03a1b4b9fb65)
   - (2022) 2022 경영정보관련 춘계통합학술대회: 한국정보시스템학회 주관/**최우수 논문상** [{학회개요}](http://www.ekais.or.kr/skin_build61/bbs_list.php?boardT=v&board_data=aWR4PTIyNDcmc3RhcnRQYWdlPTAmbGlzdE5vPTM2JnRhYmxlPXJlZF9iYnNfZGF0YSZjb2RlPWNvbnNwJnNlYXJjaF9pdGVtPSZzZWFyY2hfb3JkZXI9||&search_items=Y29kZT1jb25zcCZfJnNlYXJjaF9pdGVtPSZfJnNlYXJjaF9vcmRlcj0mXyZ1bnNpbmdjb2RlMT0xMjkzMDk5NTkwJl8mdW5zaW5nY29kZTI9MTI5MzEwMDY4NCZfJnVuc2luZ2NvZGUzPSZfJmNhdGU9Jl8mcHdkPQ==||)
   [{증빙자료}](https://www.junwoo.kr/aadf6da1-6f7e-4858-9efa-504e518ab98f)
-  - (2023) 2023 신한AI, 보다 나은 금융 생활을 위한 AI 서비스 아이디어 경진대회/**1등**[{경진대회개요}]([http://www.ekais.or.kr/skin_build61/bbs_list.php?boardT=v&board_data=aWR4PTIyNDcmc3RhcnRQYWdlPTAmbGlzdE5vPTM2JnRhYmxlPXJlZF9iYnNfZGF0YSZjb2RlPWNvbnNwJnNlYXJjaF9pdGVtPSZzZWFyY2hfb3JkZXI9||&search_items=Y29kZT1jb25zcCZfJnNlYXJjaF9pdGVtPSZfJnNlYXJjaF9vcmRlcj0mXyZ1bnNpbmdjb2RlMT0xMjkzMDk5NTkwJl8mdW5zaW5nY29kZTI9MTI5MzEwMDY4NCZfJnVuc2luZ2NvZGUzPSZfJmNhdGU9Jl8mcHdkPQ==||](https://dacon.io/competitions/official/236088/overview/description))[{증빙자료}](https://www.junwoo.kr/6b02cd40-0456-4aa5-bec6-99a935e8d5a9)
+  - (2023) 2023 신한AI, 보다 나은 금융 생활을 위한 AI 서비스 아이디어 경진대회/**1등**[{경진대회개요 및 증빙자료}](https://www.junwoo.kr/6b02cd40-0456-4aa5-bec6-99a935e8d5a9)
   
 - __참여활동__: 
   - (2023.03) [홍준우의 생각정리: 데이터분석 스토리](https://www.junwoo.kr/df4fe9d4-2ba2-42be-a452-fdc98d41b816)
