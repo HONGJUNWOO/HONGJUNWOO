@@ -41,7 +41,7 @@
    - (2023. 개인연구) **[글로벌 시장 진입을 위한 고객분석 및 분류](https://www.junwoo.kr/a674ee56-3afe-4e80-82a9-46bd41d23d27)**<br>
       &nbsp;   → 빅데이터분석/고객분류/전자상거래산업/**ARPU, ARPPU, 퍼널분석, 연관성분석, LR, RF, GB, LightGBM, KNN, SVM**/전자상거래고객구매데이터/Python, SQL
       
-   - (2023. 개인연구) **[2022년 KGA 대상 속 플레이 유저들은 만족스러울까?]([https://www.junwoo.kr/a674ee56-3afe-4e80-82a9-46bd41d23d27](https://www.junwoo.kr/6d55f3b5-95c9-4319-bd51-a8a481bd251d))**<br>
+   - (2023. 개인연구) **[2022년 KGA 대상 속 플레이 유저들은 만족스러울까?]([https://www.junwoo.kr/a674ee56-3afe-4e80-82a9-46bd41d23d27](https://www.junwoo.kr/6d55f3b5-95c9-4319-bd51-a8a481bd251d)**<br>
       &nbsp;   → 빅데이터분석/모바일게임산업/게임 리뷰 데이터/웹크롤링/텍스트마이닝/생존전략 분석/온라인리뷰데이터/Python,HTML,SQL
   
   
@@ -64,6 +64,7 @@
   - (2020) **DT을 통한 사회현안을 해결방법제시 및 새로운 서비스**, 한국경영정보학회 아이디어 공모전/참여
   - (2021) **리뷰 빅데이터를 이용한 소상공인 마케팅 AI 어드바이저**, ICT챌린지2021 아이디어 공모전/참여
   - (2021) **우리의 삶이 변한 만큼 도로 위험도 변한다**, 데이콘 & 국토교통부 해커톤 경진대회/참여
+  - (2023) **사회초년생의 대출경험 혁신을 위한 반사실적 iF어드바이저와 금융 상품 추천 서비스**, 데이콘 & 신한AI 아이디어 경진대회/참여 및 수상
   
 - __수상이력🏆__
   - (2021) ICEC 2021(22nd International Conference on Electronic Commerce)/**BEST PAPER** [{학회개요}](https://it.swufe.edu.cn/events/icec_2021/)
@@ -72,6 +73,7 @@
   [{증빙자료}](https://www.junwoo.kr/86ec2285-4bb0-4260-884d-03a1b4b9fb65)
   - (2022) 2022 경영정보관련 춘계통합학술대회: 한국정보시스템학회 주관/**최우수 논문상** [{학회개요}](http://www.ekais.or.kr/skin_build61/bbs_list.php?boardT=v&board_data=aWR4PTIyNDcmc3RhcnRQYWdlPTAmbGlzdE5vPTM2JnRhYmxlPXJlZF9iYnNfZGF0YSZjb2RlPWNvbnNwJnNlYXJjaF9pdGVtPSZzZWFyY2hfb3JkZXI9||&search_items=Y29kZT1jb25zcCZfJnNlYXJjaF9pdGVtPSZfJnNlYXJjaF9vcmRlcj0mXyZ1bnNpbmdjb2RlMT0xMjkzMDk5NTkwJl8mdW5zaW5nY29kZTI9MTI5MzEwMDY4NCZfJnVuc2luZ2NvZGUzPSZfJmNhdGU9Jl8mcHdkPQ==||)
   [{증빙자료}](https://www.junwoo.kr/aadf6da1-6f7e-4858-9efa-504e518ab98f)
+  - (2023) 2023 신한AI, 보다 나은 금융 생활을 위한 AI 서비스 아이디어 경진대회/**1등**[{경진대회개요}]([http://www.ekais.or.kr/skin_build61/bbs_list.php?boardT=v&board_data=aWR4PTIyNDcmc3RhcnRQYWdlPTAmbGlzdE5vPTM2JnRhYmxlPXJlZF9iYnNfZGF0YSZjb2RlPWNvbnNwJnNlYXJjaF9pdGVtPSZzZWFyY2hfb3JkZXI9||&search_items=Y29kZT1jb25zcCZfJnNlYXJjaF9pdGVtPSZfJnNlYXJjaF9vcmRlcj0mXyZ1bnNpbmdjb2RlMT0xMjkzMDk5NTkwJl8mdW5zaW5nY29kZTI9MTI5MzEwMDY4NCZfJnVuc2luZ2NvZGUzPSZfJmNhdGU9Jl8mcHdkPQ==||](https://dacon.io/competitions/official/236088/overview/description))[{증빙자료}](https://www.junwoo.kr/6b02cd40-0456-4aa5-bec6-99a935e8d5a9)
   
 - __참여활동__: 
   - (2023.03) [홍준우의 생각정리: 데이터분석 스토리](https://www.junwoo.kr/df4fe9d4-2ba2-42be-a452-fdc98d41b816)
