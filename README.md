@@ -5,7 +5,7 @@
 ## 2. 자기소개
 - 학력: (2020) 울산대학교 경영대학 경영정보(MIS)전공 학사학위 졸업 🎓<br>
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(2023) **부산대학교 일반대학원 경영정보(MIS)전공 경영학석사 졸업** 🎓<br>
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ※ 연구실: [**지능형경영분석 연구실(IBA Lab)**]([http://ibalab.quv.kr/](https://ibalab.pusan.ac.kr/ibalab/index.do))<br>
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ※ 연구실: [**지능형경영분석 연구실(IBA Lab)**](https://ibalab.pusan.ac.kr/ibalab/index.do)<br>
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ※ 석사논문: 텍스트 마이닝 기반 고객 감정별 감성과 상품속성별 선호도를 통합한 지능형 추천시스템<br>
 - 기술스택: 
 <img src="https://img.shields.io/badge/python(상)-3776AB??style=Plastic&logo=appveyor=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML(초중)-3776AB??style=Plastic&logo=appveyor=HTML&logoColor=white"> <img src="https://img.shields.io/badge/SQL(초중)-3776AB??style=Plastic&logo=appveyor=SQL&logoColor=white"> <img src="https://img.shields.io/badge/Tableau(초)-3776AB??style=Plastic&logo=appveyor=Tableau&logoColor=white"> <img src="https://img.shields.io/badge/MS Office, 한컴오피스(상)-3776AB??style=Plastic&logo=appveyor=python&logoColor=white">
