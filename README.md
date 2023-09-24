@@ -1,8 +1,6 @@
 
 ## 1. 홍준우
-- **(현재)** [**AI비즈니스연구소**](http://aibusiness.quv.kr/)
 - **E-Mail✉️: ehddml70@naver.com**
-- [**포트폴리오 📃**](https://www.junwoo.kr/)
 
 ## 2. 자기소개
 - 학력: (2020) 울산대학교 경영대학 경영정보(MIS)전공 학사학위 졸업 🎓<br>
